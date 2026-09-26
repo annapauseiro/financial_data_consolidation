@@ -1,0 +1,144 @@
+BankTxnID,Date,Amount,Description,Category,MatchedTxnID
+159,2024-01-24,46379.91,CHI client fee collections - 2024-01,Matched,31
+160,2024-01-15,-3734.77,CHI direct case costs - 2024-01,Matched,35
+161,2024-01-29,-26080.92,CHI payroll run - 2024-01,Matched,39
+162,2024-01-01,-4216.0,CHI office rent - 2024-01,Matched,43
+163,2024-01-18,-1437.74,CHI marketing spend - 2024-01,Matched,45
+164,2024-01-09,-1302.0,CHI software & IT subscriptions - 2024-01,Matched,50
+165,2024-02-26,54103.87,CHI client fee collections - 2024-02,Matched,119
+166,2024-02-15,-4338.75,CHI direct case costs - 2024-02,Matched,123
+167,2024-02-28,-29291.78,CHI payroll run - 2024-02,Matched,127
+168,2024-02-01,-4237.08,CHI office rent - 2024-02,Matched,131
+169,2024-02-19,-1650.45,CHI marketing spend - 2024-02,Matched,133
+170,2024-02-09,-1315.02,CHI software & IT subscriptions - 2024-02,Matched,138
+171,2024-02-05,-1960.06,CHI AP payment run (prior month invoices) - 2024-02,Matched,142
+172,2024-02-26,-3224.0,Intercompany settlement paid to HQ - 2024-02,Matched,176
+173,2024-03-25,51195.95,CHI client fee collections - 2024-03,Matched,219
+174,2024-03-15,-4170.73,CHI direct case costs - 2024-03,Matched,223
+175,2024-03-28,-29639.51,CHI payroll run - 2024-03,Matched,227
+176,2024-03-01,-4258.16,CHI office rent - 2024-03,Matched,231
+177,2024-03-18,-1567.94,CHI marketing spend - 2024-03,Matched,233
+178,2024-03-11,-1328.04,CHI software & IT subscriptions - 2024-03,Matched,238
+179,2024-03-05,-2272.08,CHI AP payment run (prior month invoices) - 2024-03,Matched,242
+180,2024-03-25,-3256.24,Intercompany settlement paid to HQ - 2024-03,Matched,276
+181,2024-04-24,55528.39,CHI client fee collections - 2024-04,Matched,319
+182,2024-04-15,-4560.83,CHI direct case costs - 2024-04,Matched,323
+183,2024-04-29,-29987.27,CHI payroll run - 2024-04,Matched,327
+184,2024-04-01,-4279.24,CHI office rent - 2024-04,Matched,331
+185,2024-04-18,-1694.74,CHI marketing spend - 2024-04,Matched,333
+186,2024-04-09,-1341.06,CHI software & IT subscriptions - 2024-04,Matched,338
+187,2024-04-05,-2179.45,CHI AP payment run (prior month invoices) - 2024-04,Matched,342
+188,2024-04-25,-3288.48,Intercompany settlement paid to HQ - 2024-04,Matched,376
+189,2024-05-24,51587.59,CHI client fee collections - 2024-05,Matched,419
+190,2024-05-15,-4210.2,CHI direct case costs - 2024-05,Matched,423
+191,2024-05-28,-30335.0,CHI payroll run - 2024-05,Matched,427
+192,2024-05-01,-4300.32,CHI office rent - 2024-05,Matched,431
+193,2024-05-20,-1546.54,CHI marketing spend - 2024-05,Matched,433
+194,2024-05-09,-1354.08,CHI software & IT subscriptions - 2024-05,Matched,438
+195,2024-05-06,-2378.32,CHI AP payment run (prior month invoices) - 2024-05,Matched,442
+196,2024-05-27,-3320.72,Intercompany settlement paid to HQ - 2024-05,Matched,476
+197,2024-06-24,53352.36,CHI client fee collections - 2024-06,Matched,519
+198,2024-06-17,-4173.53,CHI direct case costs - 2024-06,Matched,523
+199,2024-06-28,-30682.76,CHI payroll run - 2024-06,Matched,527
+200,2024-06-03,-4321.4,CHI office rent - 2024-06,Matched,531
+201,2024-06-18,-1515.71,CHI marketing spend - 2024-06,Matched,533
+202,2024-06-10,-1367.1,CHI software & IT subscriptions - 2024-06,Matched,538
+203,2024-06-05,-2191.0,CHI AP payment run (prior month invoices) - 2024-06,Matched,542
+204,2024-06-25,-3352.96,Intercompany settlement paid to HQ - 2024-06,Matched,576
+205,2024-07-24,53012.53,CHI client fee collections - 2024-07,Matched,619
+206,2024-07-15,-4130.95,CHI direct case costs - 2024-07,Matched,623
+207,2024-07-29,-31030.49,CHI payroll run - 2024-07,Matched,627
+208,2024-07-01,-4342.48,CHI office rent - 2024-07,Matched,631
+209,2024-07-18,-1483.46,CHI marketing spend - 2024-07,Matched,633
+210,2024-07-09,-1380.12,CHI software & IT subscriptions - 2024-07,Matched,638
+211,2024-07-05,-2167.58,CHI AP payment run (prior month invoices) - 2024-07,Matched,642
+212,2024-07-25,-3385.2,Intercompany settlement paid to HQ - 2024-07,Matched,676
+213,2024-08-26,62455.59,CHI client fee collections - 2024-08,Matched,719
+214,2024-08-15,-4842.18,CHI direct case costs - 2024-08,Matched,723
+215,2024-08-28,-31378.25,CHI payroll run - 2024-08,Matched,727
+216,2024-08-01,-4363.56,CHI office rent - 2024-08,Matched,731
+217,2024-08-19,-1719.61,CHI marketing spend - 2024-08,Matched,733
+218,2024-08-09,-1393.14,CHI software & IT subscriptions - 2024-08,Matched,738
+219,2024-08-05,-2141.27,CHI AP payment run (prior month invoices) - 2024-08,Matched,742
+220,2024-08-26,-3417.44,Intercompany settlement paid to HQ - 2024-08,Matched,776
+221,2024-09-24,61266.73,CHI client fee collections - 2024-09,Matched,819
+222,2024-09-16,-4965.55,CHI direct case costs - 2024-09,Matched,823
+223,2024-09-30,-31725.98,CHI payroll run - 2024-09,Matched,827
+224,2024-09-02,-4384.64,CHI office rent - 2024-09,Matched,831
+225,2024-09-18,-1744.12,CHI marketing spend - 2024-09,Matched,833
+226,2024-09-09,-1406.16,CHI software & IT subscriptions - 2024-09,Matched,838
+227,2024-09-05,-2505.12,CHI AP payment run (prior month invoices) - 2024-09,Matched,842
+228,2024-09-25,-3449.68,Intercompany settlement paid to HQ - 2024-09,Matched,876
+229,2024-10-24,56592.2,CHI client fee collections - 2024-10,Matched,919
+230,2024-10-15,-4335.01,CHI direct case costs - 2024-10,Matched,923
+231,2024-10-28,-32073.74,CHI payroll run - 2024-10,Matched,927
+232,2024-10-01,-4405.72,CHI office rent - 2024-10,Matched,931
+233,2024-10-18,-1506.15,CHI marketing spend - 2024-10,Matched,933
+234,2024-10-09,-1419.18,CHI software & IT subscriptions - 2024-10,Matched,938
+235,2024-10-07,-2564.13,CHI AP payment run (prior month invoices) - 2024-10,Matched,942
+236,2024-10-25,-3481.92,Intercompany settlement paid to HQ - 2024-10,Matched,976
+237,2024-11-25,63382.69,CHI client fee collections - 2024-11,Matched,1019
+238,2024-11-15,-4909.74,CHI direct case costs - 2024-11,Matched,1023
+239,2024-11-28,-32421.48,CHI payroll run - 2024-11,Matched,1027
+240,2024-11-01,-4426.8,CHI office rent - 2024-11,Matched,1031
+241,2024-11-18,-1687.56,CHI marketing spend - 2024-11,Matched,1033
+242,2024-11-11,-1432.2,CHI software & IT subscriptions - 2024-11,Matched,1038
+243,2024-11-05,-2234.4,CHI AP payment run (prior month invoices) - 2024-11,Matched,1042
+244,2024-11-25,-3514.16,Intercompany settlement paid to HQ - 2024-11,Matched,1076
+245,2024-12-24,62662.77,CHI client fee collections - 2024-12,Matched,1119
+246,2024-12-16,-4850.41,CHI direct case costs - 2024-12,Matched,1123
+247,2024-12-30,-32769.23,CHI payroll run - 2024-12,Matched,1127
+248,2024-12-02,-4447.88,CHI office rent - 2024-12,Matched,1131
+249,2024-12-18,-1649.5,CHI marketing spend - 2024-12,Matched,1133
+250,2024-12-09,-1445.22,CHI software & IT subscriptions - 2024-12,Matched,1138
+251,2024-12-05,-2526.06,CHI AP payment run (prior month invoices) - 2024-12,Matched,1142
+252,2024-12-25,-3546.4,Intercompany settlement paid to HQ - 2024-12,Matched,1176
+253,2025-01-24,67695.03,CHI client fee collections - 2025-01,Matched,1219
+254,2025-01-15,-5170.05,CHI direct case costs - 2025-01,Matched,1223
+255,2025-01-28,-33116.98,CHI payroll run - 2025-01,Matched,1227
+256,2025-01-01,-4468.96,CHI office rent - 2025-01,Matched,1231
+257,2025-01-20,-1739.75,CHI marketing spend - 2025-01,Matched,1233
+258,2025-01-09,-1458.24,CHI software & IT subscriptions - 2025-01,Matched,1238
+259,2025-01-06,-2491.12,CHI AP payment run (prior month invoices) - 2025-01,Matched,1242
+260,2025-01-27,-3578.64,Intercompany settlement paid to HQ - 2025-01,Matched,1276
+261,2025-02-24,61507.43,CHI client fee collections - 2025-02,Matched,1319
+262,2025-02-17,-4688.42,CHI direct case costs - 2025-02,Matched,1323
+263,2025-02-28,-33464.71,CHI payroll run - 2025-02,Matched,1327
+264,2025-02-03,-4490.04,CHI office rent - 2025-02,Matched,1331
+265,2025-02-18,-1561.3,CHI marketing spend - 2025-02,Matched,1333
+266,2025-02-10,-1471.26,CHI software & IT subscriptions - 2025-02,Matched,1338
+267,2025-02-05,-2650.68,CHI AP payment run (prior month invoices) - 2025-02,Matched,1342
+268,2025-02-25,-3610.88,Intercompany settlement paid to HQ - 2025-02,Matched,1376
+269,2025-03-24,61111.2,CHI client fee collections - 2025-03,Matched,1419
+270,2025-03-17,-4601.37,CHI direct case costs - 2025-03,Matched,1423
+271,2025-03-28,-33812.47,CHI payroll run - 2025-03,Matched,1427
+272,2025-03-03,-4511.12,CHI office rent - 2025-03,Matched,1431
+273,2025-03-18,-1516.57,CHI marketing spend - 2025-03,Matched,1433
+274,2025-03-10,-1484.28,CHI software & IT subscriptions - 2025-03,Matched,1438
+275,2025-03-05,-2399.66,CHI AP payment run (prior month invoices) - 2025-03,Matched,1442
+276,2025-03-25,-3643.12,Intercompany settlement paid to HQ - 2025-03,Matched,1476
+277,2025-04-24,55236.4,CHI client fee collections - 2025-04,Matched,1519
+278,2025-04-15,-4487.69,CHI direct case costs - 2025-04,Matched,1523
+279,2025-04-28,-34160.2,CHI payroll run - 2025-04,Matched,1527
+280,2025-04-01,-4532.2,CHI office rent - 2025-04,Matched,1531
+281,2025-04-18,-1464.06,CHI marketing spend - 2025-04,Matched,1533
+282,2025-04-09,-1497.3,CHI software & IT subscriptions - 2025-04,Matched,1538
+283,2025-04-07,-2351.15,CHI AP payment run (prior month invoices) - 2025-04,Matched,1542
+284,2025-04-25,-3675.36,Intercompany settlement paid to HQ - 2025-04,Matched,1576
+285,2025-05-26,59972.73,CHI client fee collections - 2025-05,Matched,1619
+286,2025-05-15,-4832.93,CHI direct case costs - 2025-05,Matched,1623
+287,2025-05-28,-34507.96,CHI payroll run - 2025-05,Matched,1627
+288,2025-05-01,-4553.28,CHI office rent - 2025-05,Matched,1631
+289,2025-05-19,-1560.82,CHI marketing spend - 2025-05,Matched,1633
+290,2025-05-09,-1510.32,CHI software & IT subscriptions - 2025-05,Matched,1638
+291,2025-05-05,-2289.32,CHI AP payment run (prior month invoices) - 2025-05,Matched,1642
+292,2025-05-26,-3707.6,Intercompany settlement paid to HQ - 2025-05,Matched,1676
+293,2025-06-24,64224.03,CHI client fee collections - 2025-06,Matched,1719
+294,2025-06-16,-5052.9,CHI direct case costs - 2025-06,Matched,1723
+295,2025-06-30,-34855.7,CHI payroll run - 2025-06,Matched,1727
+296,2025-06-02,-4574.36,CHI office rent - 2025-06,Matched,1731
+297,2025-06-09,-1523.34,CHI software & IT subscriptions - 2025-06,Matched,1738
+298,2025-06-05,-2461.45,CHI AP payment run (prior month invoices) - 2025-06,Matched,1742
+299,2025-06-25,-3739.84,Intercompany settlement paid to HQ - 2025-06,Matched,1776
+443,2025-06-30,-44.3,Monthly account service fee,Unmatched - Book Adjustment Needed,
+444,2025-06-30,31.64,Interest income,Unmatched - Book Adjustment Needed,

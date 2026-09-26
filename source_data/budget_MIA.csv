@@ -1,0 +1,181 @@
+Month,AccountCode,AccountName,BudgetAmount
+2024-01-01,4010,Litigation Fees,37497.4
+2024-01-01,4020,Corporate & Transactional Fees,30252.17
+2024-01-01,4030,Family Law Fees,22794.28
+2024-01-01,6010,Attorney & Staff Payroll,41157.23
+2024-01-01,6020,Payroll Taxes & Benefits,5823.86
+2024-01-01,6030,Office Rent,6687.65
+2024-01-01,6040,Marketing & Business Development,3252.16
+2024-01-01,6050,Professional Insurance,1422.73
+2024-01-01,6060,Software & IT,2040.91
+2024-01-01,7000,Depreciation Expense,1100.24
+2024-02-01,4010,Litigation Fees,41983.63
+2024-02-01,4020,Corporate & Transactional Fees,33795.94
+2024-02-01,4030,Family Law Fees,24886.53
+2024-02-01,6010,Attorney & Staff Payroll,40342.31
+2024-02-01,6020,Payroll Taxes & Benefits,5700.81
+2024-02-01,6030,Office Rent,6776.43
+2024-02-01,6040,Marketing & Business Development,3027.23
+2024-02-01,6050,Professional Insurance,1434.5
+2024-02-01,6060,Software & IT,2036.37
+2024-02-01,7000,Depreciation Expense,1090.23
+2024-03-01,4010,Litigation Fees,41573.15
+2024-03-01,4020,Corporate & Transactional Fees,33822.3
+2024-03-01,4030,Family Law Fees,24954.28
+2024-03-01,6010,Attorney & Staff Payroll,41687.7
+2024-03-01,6020,Payroll Taxes & Benefits,5779.27
+2024-03-01,6030,Office Rent,6798.39
+2024-03-01,6040,Marketing & Business Development,3561.34
+2024-03-01,6050,Professional Insurance,1436.24
+2024-03-01,6060,Software & IT,2160.12
+2024-03-01,7000,Depreciation Expense,1117.5
+2024-04-01,4010,Litigation Fees,41039.67
+2024-04-01,4020,Corporate & Transactional Fees,32000.28
+2024-04-01,4030,Family Law Fees,22783.53
+2024-04-01,6010,Attorney & Staff Payroll,41581.14
+2024-04-01,6020,Payroll Taxes & Benefits,6039.59
+2024-04-01,6030,Office Rent,7004.29
+2024-04-01,6040,Marketing & Business Development,3005.96
+2024-04-01,6050,Professional Insurance,1458.06
+2024-04-01,6060,Software & IT,2186.57
+2024-04-01,7000,Depreciation Expense,1084.72
+2024-05-01,4010,Litigation Fees,38251.62
+2024-05-01,4020,Corporate & Transactional Fees,31089.65
+2024-05-01,4030,Family Law Fees,24009.1
+2024-05-01,6010,Attorney & Staff Payroll,42348.65
+2024-05-01,6020,Payroll Taxes & Benefits,6134.37
+2024-05-01,6030,Office Rent,6977.58
+2024-05-01,6040,Marketing & Business Development,3118.88
+2024-05-01,6050,Professional Insurance,1451.02
+2024-05-01,6060,Software & IT,2101.23
+2024-05-01,7000,Depreciation Expense,1087.89
+2024-06-01,4010,Litigation Fees,43316.47
+2024-06-01,4020,Corporate & Transactional Fees,35094.98
+2024-06-01,4030,Family Law Fees,24297.23
+2024-06-01,6010,Attorney & Staff Payroll,42893.5
+2024-06-01,6020,Payroll Taxes & Benefits,6164.01
+2024-06-01,6030,Office Rent,6899.93
+2024-06-01,6040,Marketing & Business Development,3077.91
+2024-06-01,6050,Professional Insurance,1447.02
+2024-06-01,6060,Software & IT,2187.77
+2024-06-01,7000,Depreciation Expense,1090.26
+2024-07-01,4010,Litigation Fees,42422.46
+2024-07-01,4020,Corporate & Transactional Fees,31456.76
+2024-07-01,4030,Family Law Fees,24188.56
+2024-07-01,6010,Attorney & Staff Payroll,43906.25
+2024-07-01,6020,Payroll Taxes & Benefits,6135.5
+2024-07-01,6030,Office Rent,7073.47
+2024-07-01,6040,Marketing & Business Development,2836.67
+2024-07-01,6050,Professional Insurance,1454.88
+2024-07-01,6060,Software & IT,2226.63
+2024-07-01,7000,Depreciation Expense,1115.52
+2024-08-01,4010,Litigation Fees,37438.31
+2024-08-01,4020,Corporate & Transactional Fees,31044.12
+2024-08-01,4030,Family Law Fees,23512.89
+2024-08-01,6010,Attorney & Staff Payroll,43584.35
+2024-08-01,6020,Payroll Taxes & Benefits,6118.0
+2024-08-01,6030,Office Rent,7159.97
+2024-08-01,6040,Marketing & Business Development,3265.97
+2024-08-01,6050,Professional Insurance,1472.0
+2024-08-01,6060,Software & IT,2217.68
+2024-08-01,7000,Depreciation Expense,1084.94
+2024-09-01,4010,Litigation Fees,40280.38
+2024-09-01,4020,Corporate & Transactional Fees,30746.22
+2024-09-01,4030,Family Law Fees,25214.31
+2024-09-01,6010,Attorney & Staff Payroll,44176.48
+2024-09-01,6020,Payroll Taxes & Benefits,6335.46
+2024-09-01,6030,Office Rent,7086.62
+2024-09-01,6040,Marketing & Business Development,3109.25
+2024-09-01,6050,Professional Insurance,1421.56
+2024-09-01,6060,Software & IT,2171.67
+2024-09-01,7000,Depreciation Expense,1116.86
+2024-10-01,4010,Litigation Fees,38907.01
+2024-10-01,4020,Corporate & Transactional Fees,29338.12
+2024-10-01,4030,Family Law Fees,23607.16
+2024-10-01,6010,Attorney & Staff Payroll,46027.8
+2024-10-01,6020,Payroll Taxes & Benefits,6426.94
+2024-10-01,6030,Office Rent,7039.72
+2024-10-01,6040,Marketing & Business Development,3147.25
+2024-10-01,6050,Professional Insurance,1427.27
+2024-10-01,6060,Software & IT,2374.19
+2024-10-01,7000,Depreciation Expense,1115.78
+2024-11-01,4010,Litigation Fees,44112.86
+2024-11-01,4020,Corporate & Transactional Fees,35714.77
+2024-11-01,4030,Family Law Fees,26797.75
+2024-11-01,6010,Attorney & Staff Payroll,45866.25
+2024-11-01,6020,Payroll Taxes & Benefits,6317.81
+2024-11-01,6030,Office Rent,7199.63
+2024-11-01,6040,Marketing & Business Development,2885.69
+2024-11-01,6050,Professional Insurance,1474.68
+2024-11-01,6060,Software & IT,2318.88
+2024-11-01,7000,Depreciation Expense,1109.65
+2024-12-01,4010,Litigation Fees,42981.11
+2024-12-01,4020,Corporate & Transactional Fees,34026.27
+2024-12-01,4030,Family Law Fees,25286.2
+2024-12-01,6010,Attorney & Staff Payroll,45515.56
+2024-12-01,6020,Payroll Taxes & Benefits,6456.48
+2024-12-01,6030,Office Rent,7289.12
+2024-12-01,6040,Marketing & Business Development,3465.28
+2024-12-01,6050,Professional Insurance,1430.84
+2024-12-01,6060,Software & IT,2234.22
+2024-12-01,7000,Depreciation Expense,1100.68
+2025-01-01,4010,Litigation Fees,42564.64
+2025-01-01,4020,Corporate & Transactional Fees,32009.1
+2025-01-01,4030,Family Law Fees,23094.05
+2025-01-01,6010,Attorney & Staff Payroll,47486.4
+2025-01-01,6020,Payroll Taxes & Benefits,6519.43
+2025-01-01,6030,Office Rent,7294.9
+2025-01-01,6040,Marketing & Business Development,3154.83
+2025-01-01,6050,Professional Insurance,1478.3
+2025-01-01,6060,Software & IT,2374.45
+2025-01-01,7000,Depreciation Expense,1119.8
+2025-02-01,4010,Litigation Fees,44145.77
+2025-02-01,4020,Corporate & Transactional Fees,35957.84
+2025-02-01,4030,Family Law Fees,27619.65
+2025-02-01,6010,Attorney & Staff Payroll,46464.28
+2025-02-01,6020,Payroll Taxes & Benefits,6575.77
+2025-02-01,6030,Office Rent,7359.27
+2025-02-01,6040,Marketing & Business Development,3462.51
+2025-02-01,6050,Professional Insurance,1461.34
+2025-02-01,6060,Software & IT,2457.65
+2025-02-01,7000,Depreciation Expense,1111.69
+2025-03-01,4010,Litigation Fees,40653.38
+2025-03-01,4020,Corporate & Transactional Fees,30313.0
+2025-03-01,4030,Family Law Fees,23757.81
+2025-03-01,6010,Attorney & Staff Payroll,47359.09
+2025-03-01,6020,Payroll Taxes & Benefits,6574.14
+2025-03-01,6030,Office Rent,7225.61
+2025-03-01,6040,Marketing & Business Development,3126.28
+2025-03-01,6050,Professional Insurance,1442.99
+2025-03-01,6060,Software & IT,2454.33
+2025-03-01,7000,Depreciation Expense,1114.6
+2025-04-01,4010,Litigation Fees,50557.9
+2025-04-01,4020,Corporate & Transactional Fees,36408.97
+2025-04-01,4030,Family Law Fees,27340.92
+2025-04-01,6010,Attorney & Staff Payroll,48567.1
+2025-04-01,6020,Payroll Taxes & Benefits,6894.5
+2025-04-01,6030,Office Rent,7279.78
+2025-04-01,6040,Marketing & Business Development,3679.77
+2025-04-01,6050,Professional Insurance,1425.41
+2025-04-01,6060,Software & IT,2461.03
+2025-04-01,7000,Depreciation Expense,1105.6
+2025-05-01,4010,Litigation Fees,45890.74
+2025-05-01,4020,Corporate & Transactional Fees,35880.39
+2025-05-01,4030,Family Law Fees,28007.03
+2025-05-01,6010,Attorney & Staff Payroll,49487.09
+2025-05-01,6020,Payroll Taxes & Benefits,6921.01
+2025-05-01,6030,Office Rent,7222.58
+2025-05-01,6040,Marketing & Business Development,3631.98
+2025-05-01,6050,Professional Insurance,1435.14
+2025-05-01,6060,Software & IT,2427.4
+2025-05-01,7000,Depreciation Expense,1104.85
+2025-06-01,4010,Litigation Fees,46738.17
+2025-06-01,4020,Corporate & Transactional Fees,36939.51
+2025-06-01,4030,Family Law Fees,27684.41
+2025-06-01,6010,Attorney & Staff Payroll,48699.54
+2025-06-01,6020,Payroll Taxes & Benefits,6946.5
+2025-06-01,6030,Office Rent,7310.39
+2025-06-01,6040,Marketing & Business Development,3044.1
+2025-06-01,6050,Professional Insurance,1428.0
+2025-06-01,6060,Software & IT,2381.47
+2025-06-01,7000,Depreciation Expense,1083.26

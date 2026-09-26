@@ -1,0 +1,144 @@
+BankTxnID,Date,Amount,Description,Category,MatchedTxnID
+300,2024-01-24,53262.26,DAL client fee collections - 2024-01,Matched,57
+301,2024-01-15,-4061.97,DAL direct case costs - 2024-01,Matched,61
+302,2024-01-29,-23136.3,DAL payroll run - 2024-01,Matched,65
+303,2024-01-01,-3740.0,DAL office rent - 2024-01,Matched,69
+304,2024-01-18,-1563.7,DAL marketing spend - 2024-01,Matched,71
+305,2024-01-09,-1155.0,DAL software & IT subscriptions - 2024-01,Matched,76
+306,2024-02-26,54225.14,DAL client fee collections - 2024-02,Matched,147
+307,2024-02-15,-4137.03,DAL direct case costs - 2024-02,Matched,151
+308,2024-02-28,-25984.63,DAL payroll run - 2024-02,Matched,155
+309,2024-02-01,-3758.7,DAL office rent - 2024-02,Matched,159
+310,2024-02-19,-1573.71,DAL marketing spend - 2024-02,Matched,161
+311,2024-02-09,-1166.55,DAL software & IT subscriptions - 2024-02,Matched,166
+312,2024-02-05,-2131.78,DAL AP payment run (prior month invoices) - 2024-02,Matched,170
+313,2024-02-26,-2860.0,Intercompany settlement paid to HQ - 2024-02,Matched,184
+314,2024-03-25,51082.62,DAL client fee collections - 2024-03,Matched,247
+315,2024-03-15,-4191.52,DAL direct case costs - 2024-03,Matched,251
+316,2024-03-28,-26293.12,DAL payroll run - 2024-03,Matched,255
+317,2024-03-01,-3777.4,DAL office rent - 2024-03,Matched,259
+318,2024-03-18,-1575.76,DAL marketing spend - 2024-03,Matched,261
+319,2024-03-11,-1178.1,DAL software & IT subscriptions - 2024-03,Matched,266
+320,2024-03-05,-2166.44,DAL AP payment run (prior month invoices) - 2024-03,Matched,270
+321,2024-03-25,-2888.6,Intercompany settlement paid to HQ - 2024-03,Matched,284
+322,2024-04-24,50745.97,DAL client fee collections - 2024-04,Matched,347
+323,2024-04-15,-4142.18,DAL direct case costs - 2024-04,Matched,351
+324,2024-04-29,-26601.61,DAL payroll run - 2024-04,Matched,355
+325,2024-04-01,-3796.1,DAL office rent - 2024-04,Matched,359
+326,2024-04-18,-1539.18,DAL marketing spend - 2024-04,Matched,361
+327,2024-04-09,-1189.65,DAL software & IT subscriptions - 2024-04,Matched,366
+328,2024-04-05,-2190.3,DAL AP payment run (prior month invoices) - 2024-04,Matched,370
+329,2024-04-25,-2917.2,Intercompany settlement paid to HQ - 2024-04,Matched,384
+330,2024-05-24,46097.45,DAL client fee collections - 2024-05,Matched,447
+331,2024-05-15,-3630.42,DAL direct case costs - 2024-05,Matched,451
+332,2024-05-28,-26910.09,DAL payroll run - 2024-05,Matched,455
+333,2024-05-01,-3814.8,DAL office rent - 2024-05,Matched,459
+334,2024-05-20,-1333.56,DAL marketing spend - 2024-05,Matched,461
+335,2024-05-09,-1201.2,DAL software & IT subscriptions - 2024-05,Matched,466
+336,2024-05-06,-2160.01,DAL AP payment run (prior month invoices) - 2024-05,Matched,470
+337,2024-05-27,-2945.8,Intercompany settlement paid to HQ - 2024-05,Matched,484
+338,2024-06-24,49159.83,DAL client fee collections - 2024-06,Matched,547
+339,2024-06-17,-3903.47,DAL direct case costs - 2024-06,Matched,551
+340,2024-06-28,-27218.57,DAL payroll run - 2024-06,Matched,555
+341,2024-06-03,-3833.5,DAL office rent - 2024-06,Matched,559
+342,2024-06-18,-1417.63,DAL marketing spend - 2024-06,Matched,561
+343,2024-06-10,-1212.75,DAL software & IT subscriptions - 2024-06,Matched,566
+344,2024-06-05,-1889.28,DAL AP payment run (prior month invoices) - 2024-06,Matched,570
+345,2024-06-25,-2974.4,Intercompany settlement paid to HQ - 2024-06,Matched,584
+346,2024-07-24,48242.58,DAL client fee collections - 2024-07,Matched,647
+347,2024-07-15,-3890.38,DAL direct case costs - 2024-07,Matched,651
+348,2024-07-29,-27527.05,DAL payroll run - 2024-07,Matched,655
+349,2024-07-01,-3852.2,DAL office rent - 2024-07,Matched,659
+350,2024-07-18,-1397.06,DAL marketing spend - 2024-07,Matched,661
+351,2024-07-09,-1224.3,DAL software & IT subscriptions - 2024-07,Matched,666
+352,2024-07-05,-2027.33,DAL AP payment run (prior month invoices) - 2024-07,Matched,670
+353,2024-07-25,-3003.0,Intercompany settlement paid to HQ - 2024-07,Matched,684
+354,2024-08-26,47486.3,DAL client fee collections - 2024-08,Matched,747
+355,2024-08-15,-3661.62,DAL direct case costs - 2024-08,Matched,751
+356,2024-08-28,-27835.54,DAL payroll run - 2024-08,Matched,755
+357,2024-08-01,-3870.9,DAL office rent - 2024-08,Matched,759
+358,2024-08-19,-1300.35,DAL marketing spend - 2024-08,Matched,761
+359,2024-08-09,-1235.85,DAL software & IT subscriptions - 2024-08,Matched,766
+360,2024-08-05,-2016.56,DAL AP payment run (prior month invoices) - 2024-08,Matched,770
+361,2024-08-26,-3031.6,Intercompany settlement paid to HQ - 2024-08,Matched,784
+362,2024-09-24,48323.14,DAL client fee collections - 2024-09,Matched,847
+363,2024-09-16,-3827.82,DAL direct case costs - 2024-09,Matched,851
+364,2024-09-30,-28144.02,DAL payroll run - 2024-09,Matched,855
+365,2024-09-02,-3889.6,DAL office rent - 2024-09,Matched,859
+366,2024-09-18,-1344.5,DAL marketing spend - 2024-09,Matched,861
+367,2024-09-09,-1247.4,DAL software & IT subscriptions - 2024-09,Matched,866
+368,2024-09-05,-1894.35,DAL AP payment run (prior month invoices) - 2024-09,Matched,870
+369,2024-09-25,-3060.2,Intercompany settlement paid to HQ - 2024-09,Matched,884
+370,2024-10-24,55751.96,DAL client fee collections - 2024-10,Matched,947
+371,2024-10-15,-4219.17,DAL direct case costs - 2024-10,Matched,951
+372,2024-10-28,-28452.51,DAL payroll run - 2024-10,Matched,955
+373,2024-10-01,-3908.3,DAL office rent - 2024-10,Matched,959
+374,2024-10-18,-1465.9,DAL marketing spend - 2024-10,Matched,961
+375,2024-10-09,-1258.95,DAL software & IT subscriptions - 2024-10,Matched,966
+376,2024-10-07,-1976.61,DAL AP payment run (prior month invoices) - 2024-10,Matched,970
+377,2024-10-25,-3088.8,Intercompany settlement paid to HQ - 2024-10,Matched,984
+378,2024-11-25,53513.71,DAL client fee collections - 2024-11,Matched,1047
+379,2024-11-15,-4049.41,DAL direct case costs - 2024-11,Matched,1051
+380,2024-11-28,-28761.0,DAL payroll run - 2024-11,Matched,1055
+381,2024-11-01,-3927.0,DAL office rent - 2024-11,Matched,1059
+382,2024-11-18,-1391.85,DAL marketing spend - 2024-11,Matched,1061
+383,2024-11-11,-1270.5,DAL software & IT subscriptions - 2024-11,Matched,1066
+384,2024-11-05,-2174.7,DAL AP payment run (prior month invoices) - 2024-11,Matched,1070
+385,2024-11-25,-3117.4,Intercompany settlement paid to HQ - 2024-11,Matched,1084
+386,2024-12-24,52206.39,DAL client fee collections - 2024-12,Matched,1147
+387,2024-12-16,-4103.76,DAL direct case costs - 2024-12,Matched,1151
+388,2024-12-30,-29069.47,DAL payroll run - 2024-12,Matched,1155
+389,2024-12-02,-3945.7,DAL office rent - 2024-12,Matched,1159
+390,2024-12-18,-1395.58,DAL marketing spend - 2024-12,Matched,1161
+391,2024-12-09,-1282.05,DAL software & IT subscriptions - 2024-12,Matched,1166
+392,2024-12-05,-2083.42,DAL AP payment run (prior month invoices) - 2024-12,Matched,1170
+393,2024-12-25,-3146.0,Intercompany settlement paid to HQ - 2024-12,Matched,1184
+394,2025-01-24,54811.74,DAL client fee collections - 2025-01,Matched,1247
+395,2025-01-15,-4470.71,DAL direct case costs - 2025-01,Matched,1251
+396,2025-01-28,-29377.96,DAL payroll run - 2025-01,Matched,1255
+397,2025-01-01,-3964.4,DAL office rent - 2025-01,Matched,1259
+398,2025-01-20,-1504.42,DAL marketing spend - 2025-01,Matched,1261
+399,2025-01-09,-1293.6,DAL software & IT subscriptions - 2025-01,Matched,1266
+400,2025-01-06,-2107.64,DAL AP payment run (prior month invoices) - 2025-01,Matched,1270
+401,2025-01-27,-3174.6,Intercompany settlement paid to HQ - 2025-01,Matched,1284
+402,2025-02-24,53146.71,DAL client fee collections - 2025-02,Matched,1347
+403,2025-02-17,-4210.67,DAL direct case costs - 2025-02,Matched,1351
+404,2025-02-28,-29686.44,DAL payroll run - 2025-02,Matched,1355
+405,2025-02-03,-3983.1,DAL office rent - 2025-02,Matched,1359
+406,2025-02-18,-1402.21,DAL marketing spend - 2025-02,Matched,1361
+407,2025-02-10,-1305.15,DAL software & IT subscriptions - 2025-02,Matched,1366
+408,2025-02-05,-2292.12,DAL AP payment run (prior month invoices) - 2025-02,Matched,1370
+409,2025-02-25,-3203.2,Intercompany settlement paid to HQ - 2025-02,Matched,1384
+410,2025-03-24,49452.81,DAL client fee collections - 2025-03,Matched,1447
+411,2025-03-17,-3863.92,DAL direct case costs - 2025-03,Matched,1451
+412,2025-03-28,-29994.93,DAL payroll run - 2025-03,Matched,1455
+413,2025-03-03,-4001.8,DAL office rent - 2025-03,Matched,1459
+414,2025-03-18,-1273.51,DAL marketing spend - 2025-03,Matched,1461
+415,2025-03-10,-1316.7,DAL software & IT subscriptions - 2025-03,Matched,1466
+416,2025-03-05,-2155.12,DAL AP payment run (prior month invoices) - 2025-03,Matched,1470
+417,2025-03-25,-3231.8,Intercompany settlement paid to HQ - 2025-03,Matched,1484
+418,2025-04-24,60409.18,DAL client fee collections - 2025-04,Matched,1547
+419,2025-04-15,-4690.92,DAL direct case costs - 2025-04,Matched,1551
+420,2025-04-28,-30303.41,DAL payroll run - 2025-04,Matched,1555
+421,2025-04-01,-4020.5,DAL office rent - 2025-04,Matched,1559
+422,2025-04-18,-1530.37,DAL marketing spend - 2025-04,Matched,1561
+423,2025-04-09,-1328.25,DAL software & IT subscriptions - 2025-04,Matched,1566
+424,2025-04-07,-1974.34,DAL AP payment run (prior month invoices) - 2025-04,Matched,1570
+425,2025-04-25,-3260.4,Intercompany settlement paid to HQ - 2025-04,Matched,1584
+426,2025-05-26,51831.21,DAL client fee collections - 2025-05,Matched,1647
+427,2025-05-15,-4005.88,DAL direct case costs - 2025-05,Matched,1651
+428,2025-05-28,-30611.9,DAL payroll run - 2025-05,Matched,1655
+429,2025-05-01,-4039.2,DAL office rent - 2025-05,Matched,1659
+430,2025-05-19,-1293.72,DAL marketing spend - 2025-05,Matched,1661
+431,2025-05-09,-1339.8,DAL software & IT subscriptions - 2025-05,Matched,1666
+432,2025-05-05,-2392.99,DAL AP payment run (prior month invoices) - 2025-05,Matched,1670
+433,2025-05-26,-3289.0,Intercompany settlement paid to HQ - 2025-05,Matched,1684
+434,2025-06-24,54828.09,DAL client fee collections - 2025-06,Matched,1747
+435,2025-06-16,-4137.11,DAL direct case costs - 2025-06,Matched,1751
+436,2025-06-30,-30920.38,DAL payroll run - 2025-06,Matched,1755
+437,2025-06-02,-4057.9,DAL office rent - 2025-06,Matched,1759
+438,2025-06-09,-1351.35,DAL software & IT subscriptions - 2025-06,Matched,1766
+439,2025-06-05,-2040.24,DAL AP payment run (prior month invoices) - 2025-06,Matched,1770
+440,2025-06-25,-3317.6,Intercompany settlement paid to HQ - 2025-06,Matched,1784
+445,2025-06-30,-43.25,Monthly account service fee,Unmatched - Book Adjustment Needed,
+446,2025-06-30,30.1,Interest income,Unmatched - Book Adjustment Needed,

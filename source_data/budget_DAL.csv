@@ -1,0 +1,199 @@
+Month,AccountCode,AccountName,BudgetAmount
+2024-01-01,4010,Litigation Fees,22744.47
+2024-01-01,4020,Corporate & Transactional Fees,17418.45
+2024-01-01,4030,Family Law Fees,13201.38
+2024-01-01,6010,Attorney & Staff Payroll,22554.2
+2024-01-01,6020,Payroll Taxes & Benefits,3189.7
+2024-01-01,6030,Office Rent,3774.37
+2024-01-01,6040,Marketing & Business Development,1975.87
+2024-01-01,6050,Professional Insurance,812.59
+2024-01-01,6060,Software & IT,1140.97
+2024-01-01,7000,Depreciation Expense,606.26
+2024-01-01,6070,Shared Services Allocation (Intercompany),2860.0
+2024-02-01,4010,Litigation Fees,23894.07
+2024-02-01,4020,Corporate & Transactional Fees,18617.05
+2024-02-01,4030,Family Law Fees,14286.5
+2024-02-01,6010,Attorney & Staff Payroll,23021.42
+2024-02-01,6020,Payroll Taxes & Benefits,3135.62
+2024-02-01,6030,Office Rent,3688.35
+2024-02-01,6040,Marketing & Business Development,1858.23
+2024-02-01,6050,Professional Insurance,790.09
+2024-02-01,6060,Software & IT,1132.83
+2024-02-01,7000,Depreciation Expense,615.72
+2024-02-01,6070,Shared Services Allocation (Intercompany),2888.6
+2024-03-01,4010,Litigation Fees,23938.73
+2024-03-01,4020,Corporate & Transactional Fees,19654.75
+2024-03-01,4030,Family Law Fees,14730.06
+2024-03-01,6010,Attorney & Staff Payroll,23230.58
+2024-03-01,6020,Payroll Taxes & Benefits,3245.98
+2024-03-01,6030,Office Rent,3782.99
+2024-03-01,6040,Marketing & Business Development,1831.91
+2024-03-01,6050,Professional Insurance,802.0
+2024-03-01,6060,Software & IT,1132.34
+2024-03-01,7000,Depreciation Expense,603.42
+2024-03-01,6070,Shared Services Allocation (Intercompany),2917.2
+2024-04-01,4010,Litigation Fees,24662.59
+2024-04-01,4020,Corporate & Transactional Fees,17748.97
+2024-04-01,4030,Family Law Fees,14019.73
+2024-04-01,6010,Attorney & Staff Payroll,23549.4
+2024-04-01,6020,Payroll Taxes & Benefits,3297.77
+2024-04-01,6030,Office Rent,3739.67
+2024-04-01,6040,Marketing & Business Development,1909.7
+2024-04-01,6050,Professional Insurance,799.09
+2024-04-01,6060,Software & IT,1161.7
+2024-04-01,7000,Depreciation Expense,614.01
+2024-04-01,6070,Shared Services Allocation (Intercompany),2945.8
+2024-05-01,4010,Litigation Fees,19897.1
+2024-05-01,4020,Corporate & Transactional Fees,16964.69
+2024-05-01,4030,Family Law Fees,12394.4
+2024-05-01,6010,Attorney & Staff Payroll,23850.55
+2024-05-01,6020,Payroll Taxes & Benefits,3342.87
+2024-05-01,6030,Office Rent,3767.56
+2024-05-01,6040,Marketing & Business Development,1465.38
+2024-05-01,6050,Professional Insurance,795.3
+2024-05-01,6060,Software & IT,1192.02
+2024-05-01,7000,Depreciation Expense,604.2
+2024-05-01,6070,Shared Services Allocation (Intercompany),2974.4
+2024-06-01,4010,Litigation Fees,21578.35
+2024-06-01,4020,Corporate & Transactional Fees,17288.19
+2024-06-01,4030,Family Law Fees,12634.84
+2024-06-01,6010,Attorney & Staff Payroll,24363.5
+2024-06-01,6020,Payroll Taxes & Benefits,3290.4
+2024-06-01,6030,Office Rent,3877.06
+2024-06-01,6040,Marketing & Business Development,1748.12
+2024-06-01,6050,Professional Insurance,795.04
+2024-06-01,6060,Software & IT,1268.21
+2024-06-01,7000,Depreciation Expense,616.99
+2024-06-01,6070,Shared Services Allocation (Intercompany),3003.0
+2024-07-01,4010,Litigation Fees,22342.15
+2024-07-01,4020,Corporate & Transactional Fees,17446.4
+2024-07-01,4030,Family Law Fees,13771.24
+2024-07-01,6010,Attorney & Staff Payroll,24314.04
+2024-07-01,6020,Payroll Taxes & Benefits,3323.16
+2024-07-01,6030,Office Rent,3836.14
+2024-07-01,6040,Marketing & Business Development,1836.27
+2024-07-01,6050,Professional Insurance,791.12
+2024-07-01,6060,Software & IT,1201.79
+2024-07-01,7000,Depreciation Expense,611.1
+2024-07-01,6070,Shared Services Allocation (Intercompany),3031.6
+2024-08-01,4010,Litigation Fees,20963.65
+2024-08-01,4020,Corporate & Transactional Fees,16001.9
+2024-08-01,4030,Family Law Fees,12543.71
+2024-08-01,6010,Attorney & Staff Payroll,23959.71
+2024-08-01,6020,Payroll Taxes & Benefits,3428.05
+2024-08-01,6030,Office Rent,3834.36
+2024-08-01,6040,Marketing & Business Development,1619.85
+2024-08-01,6050,Professional Insurance,810.43
+2024-08-01,6060,Software & IT,1278.62
+2024-08-01,7000,Depreciation Expense,595.13
+2024-08-01,6070,Shared Services Allocation (Intercompany),3060.2
+2024-09-01,4010,Litigation Fees,20913.35
+2024-09-01,4020,Corporate & Transactional Fees,17615.58
+2024-09-01,4030,Family Law Fees,13482.85
+2024-09-01,6010,Attorney & Staff Payroll,24740.33
+2024-09-01,6020,Payroll Taxes & Benefits,3383.01
+2024-09-01,6030,Office Rent,3956.48
+2024-09-01,6040,Marketing & Business Development,1864.45
+2024-09-01,6050,Professional Insurance,812.69
+2024-09-01,6060,Software & IT,1286.17
+2024-09-01,7000,Depreciation Expense,614.23
+2024-09-01,6070,Shared Services Allocation (Intercompany),3088.8
+2024-10-01,4010,Litigation Fees,23779.36
+2024-10-01,4020,Corporate & Transactional Fees,19803.83
+2024-10-01,4030,Family Law Fees,14353.63
+2024-10-01,6010,Attorney & Staff Payroll,24379.93
+2024-10-01,6020,Payroll Taxes & Benefits,3562.74
+2024-10-01,6030,Office Rent,3858.05
+2024-10-01,6040,Marketing & Business Development,2086.64
+2024-10-01,6050,Professional Insurance,790.02
+2024-10-01,6060,Software & IT,1209.65
+2024-10-01,7000,Depreciation Expense,603.42
+2024-10-01,6070,Shared Services Allocation (Intercompany),3117.4
+2024-11-01,4010,Litigation Fees,22577.79
+2024-11-01,4020,Corporate & Transactional Fees,17428.42
+2024-11-01,4030,Family Law Fees,13613.94
+2024-11-01,6010,Attorney & Staff Payroll,25353.64
+2024-11-01,6020,Payroll Taxes & Benefits,3589.37
+2024-11-01,6030,Office Rent,3945.15
+2024-11-01,6040,Marketing & Business Development,1635.92
+2024-11-01,6050,Professional Insurance,799.03
+2024-11-01,6060,Software & IT,1207.03
+2024-11-01,7000,Depreciation Expense,599.84
+2024-11-01,6070,Shared Services Allocation (Intercompany),3146.0
+2024-12-01,4010,Litigation Fees,23677.54
+2024-12-01,4020,Corporate & Transactional Fees,17788.17
+2024-12-01,4030,Family Law Fees,14188.29
+2024-12-01,6010,Attorney & Staff Payroll,25072.21
+2024-12-01,6020,Payroll Taxes & Benefits,3583.74
+2024-12-01,6030,Office Rent,3867.66
+2024-12-01,6040,Marketing & Business Development,1875.81
+2024-12-01,6050,Professional Insurance,806.11
+2024-12-01,6060,Software & IT,1231.61
+2024-12-01,7000,Depreciation Expense,603.19
+2024-12-01,6070,Shared Services Allocation (Intercompany),3174.6
+2025-01-01,4010,Litigation Fees,25512.96
+2025-01-01,4020,Corporate & Transactional Fees,20261.12
+2025-01-01,4030,Family Law Fees,14804.82
+2025-01-01,6010,Attorney & Staff Payroll,25391.83
+2025-01-01,6020,Payroll Taxes & Benefits,3552.33
+2025-01-01,6030,Office Rent,3935.81
+2025-01-01,6040,Marketing & Business Development,1903.17
+2025-01-01,6050,Professional Insurance,785.96
+2025-01-01,6060,Software & IT,1258.84
+2025-01-01,7000,Depreciation Expense,609.69
+2025-01-01,6070,Shared Services Allocation (Intercompany),3203.2
+2025-02-01,4010,Litigation Fees,22824.57
+2025-02-01,4020,Corporate & Transactional Fees,18523.96
+2025-02-01,4030,Family Law Fees,14532.83
+2025-02-01,6010,Attorney & Staff Payroll,25500.88
+2025-02-01,6020,Payroll Taxes & Benefits,3625.29
+2025-02-01,6030,Office Rent,3923.77
+2025-02-01,6040,Marketing & Business Development,1817.05
+2025-02-01,6050,Professional Insurance,782.41
+2025-02-01,6060,Software & IT,1291.32
+2025-02-01,7000,Depreciation Expense,606.56
+2025-02-01,6070,Shared Services Allocation (Intercompany),3231.8
+2025-03-01,4010,Litigation Fees,21221.91
+2025-03-01,4020,Corporate & Transactional Fees,16628.21
+2025-03-01,4030,Family Law Fees,13323.12
+2025-03-01,6010,Attorney & Staff Payroll,25835.29
+2025-03-01,6020,Payroll Taxes & Benefits,3705.72
+2025-03-01,6030,Office Rent,4044.52
+2025-03-01,6040,Marketing & Business Development,1433.24
+2025-03-01,6050,Professional Insurance,800.92
+2025-03-01,6060,Software & IT,1349.34
+2025-03-01,7000,Depreciation Expense,595.67
+2025-03-01,6070,Shared Services Allocation (Intercompany),3260.4
+2025-04-01,4010,Litigation Fees,27590.18
+2025-04-01,4020,Corporate & Transactional Fees,20142.92
+2025-04-01,4030,Family Law Fees,16647.36
+2025-04-01,6010,Attorney & Staff Payroll,26913.28
+2025-04-01,6020,Payroll Taxes & Benefits,3745.25
+2025-04-01,6030,Office Rent,4010.13
+2025-04-01,6040,Marketing & Business Development,2047.13
+2025-04-01,6050,Professional Insurance,812.35
+2025-04-01,6060,Software & IT,1297.71
+2025-04-01,7000,Depreciation Expense,612.46
+2025-04-01,6070,Shared Services Allocation (Intercompany),3289.0
+2025-05-01,4010,Litigation Fees,23323.01
+2025-05-01,4020,Corporate & Transactional Fees,17901.84
+2025-05-01,4030,Family Law Fees,13935.52
+2025-05-01,6010,Attorney & Staff Payroll,26941.29
+2025-05-01,6020,Payroll Taxes & Benefits,3742.6
+2025-05-01,6030,Office Rent,4086.53
+2025-05-01,6040,Marketing & Business Development,1419.72
+2025-05-01,6050,Professional Insurance,788.62
+2025-05-01,6060,Software & IT,1365.5
+2025-05-01,7000,Depreciation Expense,600.31
+2025-05-01,6070,Shared Services Allocation (Intercompany),3317.6
+2025-06-01,4010,Litigation Fees,22390.08
+2025-06-01,4020,Corporate & Transactional Fees,18574.34
+2025-06-01,4030,Family Law Fees,13699.69
+2025-06-01,6010,Attorney & Staff Payroll,27086.88
+2025-06-01,6020,Payroll Taxes & Benefits,3819.54
+2025-06-01,6030,Office Rent,3997.24
+2025-06-01,6040,Marketing & Business Development,1836.25
+2025-06-01,6050,Professional Insurance,797.21
+2025-06-01,6060,Software & IT,1401.72
+2025-06-01,7000,Depreciation Expense,606.79
+2025-06-01,6070,Shared Services Allocation (Intercompany),3346.2

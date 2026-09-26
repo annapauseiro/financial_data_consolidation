@@ -1,0 +1,643 @@
+TxnID,JournalID,Date,AccountCode,AccountName,Debit,Credit,Description,Source,CounterpartyEntity
+1,1,2024-01-12,1100,Accounts Receivable,95742.0,0.0,MIA legal fees billed - 2024-01,Billing,
+2,1,2024-01-12,4010,Litigation Fees,0.0,40211.64,MIA legal fees billed - 2024-01,Billing,
+3,1,2024-01-12,4020,Corporate & Transactional Fees,0.0,31594.86,MIA legal fees billed - 2024-01,Billing,
+4,1,2024-01-12,4030,Family Law Fees,0.0,23935.5,MIA legal fees billed - 2024-01,Billing,
+5,2,2024-01-24,1000,Cash - Operating,89893.86,0.0,MIA client fee collections - 2024-01,Cash Receipt,
+6,2,2024-01-24,1100,Accounts Receivable,0.0,89893.86,MIA client fee collections - 2024-01,Cash Receipt,
+7,3,2024-01-15,5010,Court Filing Fees,5437.52,0.0,MIA direct case costs - 2024-01,AP/Cash,
+8,3,2024-01-15,5020,Expert Witness Fees,4448.88,0.0,MIA direct case costs - 2024-01,AP/Cash,
+9,3,2024-01-15,1000,Cash - Operating,0.0,6920.48,MIA direct case costs - 2024-01,AP/Cash,
+10,3,2024-01-15,2000,Accounts Payable,0.0,2965.92,MIA direct case costs - 2024-01,AP/Cash,
+11,4,2024-01-29,6010,Attorney & Staff Payroll,41000.0,0.0,MIA payroll run - 2024-01,Payroll,
+12,4,2024-01-29,6020,Payroll Taxes & Benefits,5740.0,0.0,MIA payroll run - 2024-01,Payroll,
+13,4,2024-01-29,1000,Cash - Operating,0.0,42066.0,MIA payroll run - 2024-01,Payroll,
+14,4,2024-01-29,2100,Accrued Payroll,0.0,4674.0,MIA payroll run - 2024-01,Payroll,
+15,4,2024-01-29,2100,Accrued Payroll,0.0,0.0,MIA payroll run - 2024-01,Payroll,
+16,5,2024-01-01,6030,Office Rent,6800.0,0.0,MIA office rent - 2024-01,Cash,
+17,5,2024-01-01,1000,Cash - Operating,0.0,6800.0,MIA office rent - 2024-01,Cash,
+18,6,2024-01-18,6040,Marketing & Business Development,3330.16,0.0,MIA marketing spend - 2024-01,AP/Cash,
+19,6,2024-01-18,1000,Cash - Operating,0.0,2664.13,MIA marketing spend - 2024-01,AP/Cash,
+20,6,2024-01-18,2000,Accounts Payable,0.0,666.03,MIA marketing spend - 2024-01,AP/Cash,
+21,7,2024-01-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-01,Prepaid Amort,
+22,7,2024-01-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-01,Prepaid Amort,
+23,8,2024-01-09,6060,Software & IT,2100.0,0.0,MIA software & IT subscriptions - 2024-01,Cash,
+24,8,2024-01-09,1000,Cash - Operating,0.0,2100.0,MIA software & IT subscriptions - 2024-01,Cash,
+25,9,2024-01-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-01,Adjusting Entry,
+26,9,2024-01-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-01,Adjusting Entry,
+79,28,2024-01-22,1300,Intercompany Receivable,3224.0,0.0,Shared services billed to branch 2 - 2024-01,Intercompany,CHI
+80,28,2024-01-22,4090,Intercompany Shared Services Revenue,0.0,3224.0,Shared services billed to branch 2 - 2024-01,Intercompany,CHI
+83,30,2024-01-22,1300,Intercompany Receivable,2860.0,0.0,Shared services billed to branch 3 - 2024-01,Intercompany,DAL
+84,30,2024-01-22,4090,Intercompany Shared Services Revenue,0.0,2860.0,Shared services billed to branch 3 - 2024-01,Intercompany,DAL
+87,32,2024-02-12,1100,Accounts Receivable,100782.2,0.0,MIA legal fees billed - 2024-02,Billing,
+88,32,2024-02-12,4010,Litigation Fees,0.0,42328.52,MIA legal fees billed - 2024-02,Billing,
+89,32,2024-02-12,4020,Corporate & Transactional Fees,0.0,33258.13,MIA legal fees billed - 2024-02,Billing,
+90,32,2024-02-12,4030,Family Law Fees,0.0,25195.55,MIA legal fees billed - 2024-02,Billing,
+91,33,2024-02-26,1000,Cash - Operating,94369.0,0.0,MIA client fee collections - 2024-02,Cash Receipt,
+92,33,2024-02-26,1100,Accounts Receivable,0.0,94369.0,MIA client fee collections - 2024-02,Cash Receipt,
+93,34,2024-02-15,5010,Court Filing Fees,5723.77,0.0,MIA direct case costs - 2024-02,AP/Cash,
+94,34,2024-02-15,5020,Expert Witness Fees,4683.09,0.0,MIA direct case costs - 2024-02,AP/Cash,
+95,34,2024-02-15,1000,Cash - Operating,0.0,7284.8,MIA direct case costs - 2024-02,AP/Cash,
+96,34,2024-02-15,2000,Accounts Payable,0.0,3122.06,MIA direct case costs - 2024-02,AP/Cash,
+97,35,2024-02-28,6010,Attorney & Staff Payroll,41492.0,0.0,MIA payroll run - 2024-02,Payroll,
+98,35,2024-02-28,6020,Payroll Taxes & Benefits,5808.88,0.0,MIA payroll run - 2024-02,Payroll,
+99,35,2024-02-28,1000,Cash - Operating,0.0,47244.79,MIA payroll run - 2024-02,Payroll,
+100,35,2024-02-28,2100,Accrued Payroll,0.0,4730.09,MIA payroll run - 2024-02,Payroll,
+101,35,2024-02-28,2100,Accrued Payroll,4674.0,0.0,MIA payroll run - 2024-02,Payroll,
+102,36,2024-02-01,6030,Office Rent,6834.0,0.0,MIA office rent - 2024-02,Cash,
+103,36,2024-02-01,1000,Cash - Operating,0.0,6834.0,MIA office rent - 2024-02,Cash,
+104,37,2024-02-19,6040,Marketing & Business Development,3463.9,0.0,MIA marketing spend - 2024-02,AP/Cash,
+105,37,2024-02-19,1000,Cash - Operating,0.0,2771.12,MIA marketing spend - 2024-02,AP/Cash,
+106,37,2024-02-19,2000,Accounts Payable,0.0,692.78,MIA marketing spend - 2024-02,AP/Cash,
+107,38,2024-02-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-02,Prepaid Amort,
+108,38,2024-02-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-02,Prepaid Amort,
+109,39,2024-02-09,6060,Software & IT,2121.0,0.0,MIA software & IT subscriptions - 2024-02,Cash,
+110,39,2024-02-09,1000,Cash - Operating,0.0,2121.0,MIA software & IT subscriptions - 2024-02,Cash,
+111,40,2024-02-29,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-02,Adjusting Entry,
+112,40,2024-02-29,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-02,Adjusting Entry,
+113,41,2024-02-05,2000,Accounts Payable,3631.95,0.0,MIA AP payment run (prior month invoices) - 2024-02,Cash,
+114,41,2024-02-05,1000,Cash - Operating,0.0,3631.95,MIA AP payment run (prior month invoices) - 2024-02,Cash,
+171,62,2024-02-20,1300,Intercompany Receivable,3256.24,0.0,Shared services billed to branch 2 - 2024-02,Intercompany,CHI
+172,62,2024-02-20,4090,Intercompany Shared Services Revenue,0.0,3256.24,Shared services billed to branch 2 - 2024-02,Intercompany,CHI
+177,65,2024-02-26,1000,Cash - Operating,3224.0,0.0,Intercompany settlement received from branch 2 - 2024-02,Intercompany Cash,CHI
+178,65,2024-02-26,1300,Intercompany Receivable,0.0,3224.0,Intercompany settlement received from branch 2 - 2024-02,Intercompany Cash,CHI
+179,66,2024-02-20,1300,Intercompany Receivable,2888.6,0.0,Shared services billed to branch 3 - 2024-02,Intercompany,DAL
+180,66,2024-02-20,4090,Intercompany Shared Services Revenue,0.0,2888.6,Shared services billed to branch 3 - 2024-02,Intercompany,DAL
+185,69,2024-02-26,1000,Cash - Operating,2860.0,0.0,Intercompany settlement received from branch 3 - 2024-02,Intercompany Cash,DAL
+186,69,2024-02-26,1300,Intercompany Receivable,0.0,2860.0,Intercompany settlement received from branch 3 - 2024-02,Intercompany Cash,DAL
+187,70,2024-03-12,1100,Accounts Receivable,102950.59,0.0,MIA legal fees billed - 2024-03,Billing,
+188,70,2024-03-12,4010,Litigation Fees,0.0,43239.25,MIA legal fees billed - 2024-03,Billing,
+189,70,2024-03-12,4020,Corporate & Transactional Fees,0.0,33973.69,MIA legal fees billed - 2024-03,Billing,
+190,70,2024-03-12,4030,Family Law Fees,0.0,25737.65,MIA legal fees billed - 2024-03,Billing,
+191,71,2024-03-25,1000,Cash - Operating,98128.78,0.0,MIA client fee collections - 2024-03,Cash Receipt,
+192,71,2024-03-25,1100,Accounts Receivable,0.0,98128.78,MIA client fee collections - 2024-03,Cash Receipt,
+193,72,2024-03-15,5010,Court Filing Fees,5846.92,0.0,MIA direct case costs - 2024-03,AP/Cash,
+194,72,2024-03-15,5020,Expert Witness Fees,4783.85,0.0,MIA direct case costs - 2024-03,AP/Cash,
+195,72,2024-03-15,1000,Cash - Operating,0.0,7441.54,MIA direct case costs - 2024-03,AP/Cash,
+196,72,2024-03-15,2000,Accounts Payable,0.0,3189.23,MIA direct case costs - 2024-03,AP/Cash,
+197,73,2024-03-28,6010,Attorney & Staff Payroll,41984.0,0.0,MIA payroll run - 2024-03,Payroll,
+198,73,2024-03-28,6020,Payroll Taxes & Benefits,5877.76,0.0,MIA payroll run - 2024-03,Payroll,
+199,73,2024-03-28,1000,Cash - Operating,0.0,47805.67,MIA payroll run - 2024-03,Payroll,
+200,73,2024-03-28,2100,Accrued Payroll,0.0,4786.18,MIA payroll run - 2024-03,Payroll,
+201,73,2024-03-28,2100,Accrued Payroll,4730.09,0.0,MIA payroll run - 2024-03,Payroll,
+202,74,2024-03-01,6030,Office Rent,6868.0,0.0,MIA office rent - 2024-03,Cash,
+203,74,2024-03-01,1000,Cash - Operating,0.0,6868.0,MIA office rent - 2024-03,Cash,
+204,75,2024-03-18,6040,Marketing & Business Development,3496.96,0.0,MIA marketing spend - 2024-03,AP/Cash,
+205,75,2024-03-18,1000,Cash - Operating,0.0,2797.57,MIA marketing spend - 2024-03,AP/Cash,
+206,75,2024-03-18,2000,Accounts Payable,0.0,699.39,MIA marketing spend - 2024-03,AP/Cash,
+207,76,2024-03-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-03,Prepaid Amort,
+208,76,2024-03-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-03,Prepaid Amort,
+209,77,2024-03-11,6060,Software & IT,2142.0,0.0,MIA software & IT subscriptions - 2024-03,Cash,
+210,77,2024-03-11,1000,Cash - Operating,0.0,2142.0,MIA software & IT subscriptions - 2024-03,Cash,
+211,78,2024-03-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-03,Adjusting Entry,
+212,78,2024-03-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-03,Adjusting Entry,
+213,79,2024-03-05,2000,Accounts Payable,3814.84,0.0,MIA AP payment run (prior month invoices) - 2024-03,Cash,
+214,79,2024-03-05,1000,Cash - Operating,0.0,3814.84,MIA AP payment run (prior month invoices) - 2024-03,Cash,
+271,100,2024-03-20,1300,Intercompany Receivable,3288.48,0.0,Shared services billed to branch 2 - 2024-03,Intercompany,CHI
+272,100,2024-03-20,4090,Intercompany Shared Services Revenue,0.0,3288.48,Shared services billed to branch 2 - 2024-03,Intercompany,CHI
+277,103,2024-03-25,1000,Cash - Operating,3256.24,0.0,Intercompany settlement received from branch 2 - 2024-03,Intercompany Cash,CHI
+278,103,2024-03-25,1300,Intercompany Receivable,0.0,3256.24,Intercompany settlement received from branch 2 - 2024-03,Intercompany Cash,CHI
+279,104,2024-03-20,1300,Intercompany Receivable,2917.2,0.0,Shared services billed to branch 3 - 2024-03,Intercompany,DAL
+280,104,2024-03-20,4090,Intercompany Shared Services Revenue,0.0,2917.2,Shared services billed to branch 3 - 2024-03,Intercompany,DAL
+285,107,2024-03-25,1000,Cash - Operating,2888.6,0.0,Intercompany settlement received from branch 3 - 2024-03,Intercompany Cash,DAL
+286,107,2024-03-25,1300,Intercompany Receivable,0.0,2888.6,Intercompany settlement received from branch 3 - 2024-03,Intercompany Cash,DAL
+287,108,2024-04-12,1100,Accounts Receivable,95294.77,0.0,MIA legal fees billed - 2024-04,Billing,
+288,108,2024-04-12,4010,Litigation Fees,0.0,40023.8,MIA legal fees billed - 2024-04,Billing,
+289,108,2024-04-12,4020,Corporate & Transactional Fees,0.0,31447.27,MIA legal fees billed - 2024-04,Billing,
+290,108,2024-04-12,4030,Family Law Fees,0.0,23823.7,MIA legal fees billed - 2024-04,Billing,
+291,109,2024-04-24,1000,Cash - Operating,87675.66,0.0,MIA client fee collections - 2024-04,Cash Receipt,
+292,109,2024-04-24,1100,Accounts Receivable,0.0,87675.66,MIA client fee collections - 2024-04,Cash Receipt,
+293,110,2024-04-15,5010,Court Filing Fees,5412.12,0.0,MIA direct case costs - 2024-04,AP/Cash,
+294,110,2024-04-15,5020,Expert Witness Fees,4428.1,0.0,MIA direct case costs - 2024-04,AP/Cash,
+295,110,2024-04-15,1000,Cash - Operating,0.0,6888.15,MIA direct case costs - 2024-04,AP/Cash,
+296,110,2024-04-15,2000,Accounts Payable,0.0,2952.07,MIA direct case costs - 2024-04,AP/Cash,
+297,111,2024-04-29,6010,Attorney & Staff Payroll,42476.0,0.0,MIA payroll run - 2024-04,Payroll,
+298,111,2024-04-29,6020,Payroll Taxes & Benefits,5946.64,0.0,MIA payroll run - 2024-04,Payroll,
+299,111,2024-04-29,1000,Cash - Operating,0.0,48366.56,MIA payroll run - 2024-04,Payroll,
+300,111,2024-04-29,2100,Accrued Payroll,0.0,4842.26,MIA payroll run - 2024-04,Payroll,
+301,111,2024-04-29,2100,Accrued Payroll,4786.18,0.0,MIA payroll run - 2024-04,Payroll,
+302,112,2024-04-01,6030,Office Rent,6902.0,0.0,MIA office rent - 2024-04,Cash,
+303,112,2024-04-01,1000,Cash - Operating,0.0,6902.0,MIA office rent - 2024-04,Cash,
+304,113,2024-04-18,6040,Marketing & Business Development,3199.42,0.0,MIA marketing spend - 2024-04,AP/Cash,
+305,113,2024-04-18,1000,Cash - Operating,0.0,2559.54,MIA marketing spend - 2024-04,AP/Cash,
+306,113,2024-04-18,2000,Accounts Payable,0.0,639.88,MIA marketing spend - 2024-04,AP/Cash,
+307,114,2024-04-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-04,Prepaid Amort,
+308,114,2024-04-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-04,Prepaid Amort,
+309,115,2024-04-09,6060,Software & IT,2163.0,0.0,MIA software & IT subscriptions - 2024-04,Cash,
+310,115,2024-04-09,1000,Cash - Operating,0.0,2163.0,MIA software & IT subscriptions - 2024-04,Cash,
+311,116,2024-04-30,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-04,Adjusting Entry,
+312,116,2024-04-30,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-04,Adjusting Entry,
+313,117,2024-04-05,2000,Accounts Payable,3888.62,0.0,MIA AP payment run (prior month invoices) - 2024-04,Cash,
+314,117,2024-04-05,1000,Cash - Operating,0.0,3888.62,MIA AP payment run (prior month invoices) - 2024-04,Cash,
+371,138,2024-04-22,1300,Intercompany Receivable,3320.72,0.0,Shared services billed to branch 2 - 2024-04,Intercompany,CHI
+372,138,2024-04-22,4090,Intercompany Shared Services Revenue,0.0,3320.72,Shared services billed to branch 2 - 2024-04,Intercompany,CHI
+377,141,2024-04-25,1000,Cash - Operating,3288.48,0.0,Intercompany settlement received from branch 2 - 2024-04,Intercompany Cash,CHI
+378,141,2024-04-25,1300,Intercompany Receivable,0.0,3288.48,Intercompany settlement received from branch 2 - 2024-04,Intercompany Cash,CHI
+379,142,2024-04-22,1300,Intercompany Receivable,2945.8,0.0,Shared services billed to branch 3 - 2024-04,Intercompany,DAL
+380,142,2024-04-22,4090,Intercompany Shared Services Revenue,0.0,2945.8,Shared services billed to branch 3 - 2024-04,Intercompany,DAL
+385,145,2024-04-25,1000,Cash - Operating,2917.2,0.0,Intercompany settlement received from branch 3 - 2024-04,Intercompany Cash,DAL
+386,145,2024-04-25,1300,Intercompany Receivable,0.0,2917.2,Intercompany settlement received from branch 3 - 2024-04,Intercompany Cash,DAL
+387,146,2024-05-13,1100,Accounts Receivable,95749.8,0.0,MIA legal fees billed - 2024-05,Billing,
+388,146,2024-05-13,4010,Litigation Fees,0.0,40214.92,MIA legal fees billed - 2024-05,Billing,
+389,146,2024-05-13,4020,Corporate & Transactional Fees,0.0,31597.43,MIA legal fees billed - 2024-05,Billing,
+390,146,2024-05-13,4030,Family Law Fees,0.0,23937.45,MIA legal fees billed - 2024-05,Billing,
+391,147,2024-05-24,1000,Cash - Operating,85800.64,0.0,MIA client fee collections - 2024-05,Cash Receipt,
+392,147,2024-05-24,1100,Accounts Receivable,0.0,85800.64,MIA client fee collections - 2024-05,Cash Receipt,
+393,148,2024-05-15,5010,Court Filing Fees,5437.97,0.0,MIA direct case costs - 2024-05,AP/Cash,
+394,148,2024-05-15,5020,Expert Witness Fees,4449.24,0.0,MIA direct case costs - 2024-05,AP/Cash,
+395,148,2024-05-15,1000,Cash - Operating,0.0,6921.05,MIA direct case costs - 2024-05,AP/Cash,
+396,148,2024-05-15,2000,Accounts Payable,0.0,2966.16,MIA direct case costs - 2024-05,AP/Cash,
+397,149,2024-05-28,6010,Attorney & Staff Payroll,42968.0,0.0,MIA payroll run - 2024-05,Payroll,
+398,149,2024-05-28,6020,Payroll Taxes & Benefits,6015.52,0.0,MIA payroll run - 2024-05,Payroll,
+399,149,2024-05-28,1000,Cash - Operating,0.0,48927.43,MIA payroll run - 2024-05,Payroll,
+400,149,2024-05-28,2100,Accrued Payroll,0.0,4898.35,MIA payroll run - 2024-05,Payroll,
+401,149,2024-05-28,2100,Accrued Payroll,4842.26,0.0,MIA payroll run - 2024-05,Payroll,
+402,150,2024-05-01,6030,Office Rent,6936.0,0.0,MIA office rent - 2024-05,Cash,
+403,150,2024-05-01,1000,Cash - Operating,0.0,6936.0,MIA office rent - 2024-05,Cash,
+404,151,2024-05-20,6040,Marketing & Business Development,3177.89,0.0,MIA marketing spend - 2024-05,AP/Cash,
+405,151,2024-05-20,1000,Cash - Operating,0.0,2542.31,MIA marketing spend - 2024-05,AP/Cash,
+406,151,2024-05-20,2000,Accounts Payable,0.0,635.58,MIA marketing spend - 2024-05,AP/Cash,
+407,152,2024-05-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-05,Prepaid Amort,
+408,152,2024-05-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-05,Prepaid Amort,
+409,153,2024-05-09,6060,Software & IT,2184.0,0.0,MIA software & IT subscriptions - 2024-05,Cash,
+410,153,2024-05-09,1000,Cash - Operating,0.0,2184.0,MIA software & IT subscriptions - 2024-05,Cash,
+411,154,2024-05-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-05,Adjusting Entry,
+412,154,2024-05-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-05,Adjusting Entry,
+413,155,2024-05-06,2000,Accounts Payable,3591.95,0.0,MIA AP payment run (prior month invoices) - 2024-05,Cash,
+414,155,2024-05-06,1000,Cash - Operating,0.0,3591.95,MIA AP payment run (prior month invoices) - 2024-05,Cash,
+471,176,2024-05-20,1300,Intercompany Receivable,3352.96,0.0,Shared services billed to branch 2 - 2024-05,Intercompany,CHI
+472,176,2024-05-20,4090,Intercompany Shared Services Revenue,0.0,3352.96,Shared services billed to branch 2 - 2024-05,Intercompany,CHI
+477,179,2024-05-27,1000,Cash - Operating,3320.72,0.0,Intercompany settlement received from branch 2 - 2024-05,Intercompany Cash,CHI
+478,179,2024-05-27,1300,Intercompany Receivable,0.0,3320.72,Intercompany settlement received from branch 2 - 2024-05,Intercompany Cash,CHI
+479,180,2024-05-20,1300,Intercompany Receivable,2974.4,0.0,Shared services billed to branch 3 - 2024-05,Intercompany,DAL
+480,180,2024-05-20,4090,Intercompany Shared Services Revenue,0.0,2974.4,Shared services billed to branch 3 - 2024-05,Intercompany,DAL
+485,183,2024-05-27,1000,Cash - Operating,2945.8,0.0,Intercompany settlement received from branch 3 - 2024-05,Intercompany Cash,DAL
+486,183,2024-05-27,1300,Intercompany Receivable,0.0,2945.8,Intercompany settlement received from branch 3 - 2024-05,Intercompany Cash,DAL
+487,184,2024-06-12,1100,Accounts Receivable,103409.88,0.0,MIA legal fees billed - 2024-06,Billing,
+488,184,2024-06-12,4010,Litigation Fees,0.0,43432.15,MIA legal fees billed - 2024-06,Billing,
+489,184,2024-06-12,4020,Corporate & Transactional Fees,0.0,34125.26,MIA legal fees billed - 2024-06,Billing,
+490,184,2024-06-12,4030,Family Law Fees,0.0,25852.47,MIA legal fees billed - 2024-06,Billing,
+491,185,2024-06-24,1000,Cash - Operating,94331.5,0.0,MIA client fee collections - 2024-06,Cash Receipt,
+492,185,2024-06-24,1100,Accounts Receivable,0.0,94331.5,MIA client fee collections - 2024-06,Cash Receipt,
+493,186,2024-06-17,5010,Court Filing Fees,5873.0,0.0,MIA direct case costs - 2024-06,AP/Cash,
+494,186,2024-06-17,5020,Expert Witness Fees,4805.19,0.0,MIA direct case costs - 2024-06,AP/Cash,
+495,186,2024-06-17,1000,Cash - Operating,0.0,7474.73,MIA direct case costs - 2024-06,AP/Cash,
+496,186,2024-06-17,2000,Accounts Payable,0.0,3203.46,MIA direct case costs - 2024-06,AP/Cash,
+497,187,2024-06-28,6010,Attorney & Staff Payroll,43460.0,0.0,MIA payroll run - 2024-06,Payroll,
+498,187,2024-06-28,6020,Payroll Taxes & Benefits,6084.4,0.0,MIA payroll run - 2024-06,Payroll,
+499,187,2024-06-28,1000,Cash - Operating,0.0,49488.31,MIA payroll run - 2024-06,Payroll,
+500,187,2024-06-28,2100,Accrued Payroll,0.0,4954.44,MIA payroll run - 2024-06,Payroll,
+501,187,2024-06-28,2100,Accrued Payroll,4898.35,0.0,MIA payroll run - 2024-06,Payroll,
+502,188,2024-06-03,6030,Office Rent,6970.0,0.0,MIA office rent - 2024-06,Cash,
+503,188,2024-06-03,1000,Cash - Operating,0.0,6970.0,MIA office rent - 2024-06,Cash,
+504,189,2024-06-18,6040,Marketing & Business Development,3393.27,0.0,MIA marketing spend - 2024-06,AP/Cash,
+505,189,2024-06-18,1000,Cash - Operating,0.0,2714.62,MIA marketing spend - 2024-06,AP/Cash,
+506,189,2024-06-18,2000,Accounts Payable,0.0,678.65,MIA marketing spend - 2024-06,AP/Cash,
+507,190,2024-06-03,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-06,Prepaid Amort,
+508,190,2024-06-03,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-06,Prepaid Amort,
+509,191,2024-06-10,6060,Software & IT,2205.0,0.0,MIA software & IT subscriptions - 2024-06,Cash,
+510,191,2024-06-10,1000,Cash - Operating,0.0,2205.0,MIA software & IT subscriptions - 2024-06,Cash,
+511,192,2024-06-30,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-06,Adjusting Entry,
+512,192,2024-06-30,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-06,Adjusting Entry,
+513,193,2024-06-05,2000,Accounts Payable,3601.74,0.0,MIA AP payment run (prior month invoices) - 2024-06,Cash,
+514,193,2024-06-05,1000,Cash - Operating,0.0,3601.74,MIA AP payment run (prior month invoices) - 2024-06,Cash,
+571,214,2024-06-20,1300,Intercompany Receivable,3385.2,0.0,Shared services billed to branch 2 - 2024-06,Intercompany,CHI
+572,214,2024-06-20,4090,Intercompany Shared Services Revenue,0.0,3385.2,Shared services billed to branch 2 - 2024-06,Intercompany,CHI
+577,217,2024-06-25,1000,Cash - Operating,3352.96,0.0,Intercompany settlement received from branch 2 - 2024-06,Intercompany Cash,CHI
+578,217,2024-06-25,1300,Intercompany Receivable,0.0,3352.96,Intercompany settlement received from branch 2 - 2024-06,Intercompany Cash,CHI
+579,218,2024-06-20,1300,Intercompany Receivable,3003.0,0.0,Shared services billed to branch 3 - 2024-06,Intercompany,DAL
+580,218,2024-06-20,4090,Intercompany Shared Services Revenue,0.0,3003.0,Shared services billed to branch 3 - 2024-06,Intercompany,DAL
+585,221,2024-06-25,1000,Cash - Operating,2974.4,0.0,Intercompany settlement received from branch 3 - 2024-06,Intercompany Cash,DAL
+586,221,2024-06-25,1300,Intercompany Receivable,0.0,2974.4,Intercompany settlement received from branch 3 - 2024-06,Intercompany Cash,DAL
+587,222,2024-07-12,1100,Accounts Receivable,100820.26,0.0,MIA legal fees billed - 2024-07,Billing,
+588,222,2024-07-12,4010,Litigation Fees,0.0,42344.51,MIA legal fees billed - 2024-07,Billing,
+589,222,2024-07-12,4020,Corporate & Transactional Fees,0.0,33270.69,MIA legal fees billed - 2024-07,Billing,
+590,222,2024-07-12,4030,Family Law Fees,0.0,25205.06,MIA legal fees billed - 2024-07,Billing,
+591,223,2024-07-24,1000,Cash - Operating,96535.07,0.0,MIA client fee collections - 2024-07,Cash Receipt,
+592,223,2024-07-24,1100,Accounts Receivable,0.0,96535.07,MIA client fee collections - 2024-07,Cash Receipt,
+593,224,2024-07-15,5010,Court Filing Fees,5725.93,0.0,MIA direct case costs - 2024-07,AP/Cash,
+594,224,2024-07-15,5020,Expert Witness Fees,4684.86,0.0,MIA direct case costs - 2024-07,AP/Cash,
+595,224,2024-07-15,1000,Cash - Operating,0.0,7287.55,MIA direct case costs - 2024-07,AP/Cash,
+596,224,2024-07-15,2000,Accounts Payable,0.0,3123.24,MIA direct case costs - 2024-07,AP/Cash,
+597,225,2024-07-29,6010,Attorney & Staff Payroll,43952.0,0.0,MIA payroll run - 2024-07,Payroll,
+598,225,2024-07-29,6020,Payroll Taxes & Benefits,6153.28,0.0,MIA payroll run - 2024-07,Payroll,
+599,225,2024-07-29,1000,Cash - Operating,0.0,50049.19,MIA payroll run - 2024-07,Payroll,
+600,225,2024-07-29,2100,Accrued Payroll,0.0,5010.53,MIA payroll run - 2024-07,Payroll,
+601,225,2024-07-29,2100,Accrued Payroll,4954.44,0.0,MIA payroll run - 2024-07,Payroll,
+602,226,2024-07-01,6030,Office Rent,7004.0,0.0,MIA office rent - 2024-07,Cash,
+603,226,2024-07-01,1000,Cash - Operating,0.0,7004.0,MIA office rent - 2024-07,Cash,
+604,227,2024-07-18,6040,Marketing & Business Development,3271.26,0.0,MIA marketing spend - 2024-07,AP/Cash,
+605,227,2024-07-18,1000,Cash - Operating,0.0,2617.01,MIA marketing spend - 2024-07,AP/Cash,
+606,227,2024-07-18,2000,Accounts Payable,0.0,654.25,MIA marketing spend - 2024-07,AP/Cash,
+607,228,2024-07-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-07,Prepaid Amort,
+608,228,2024-07-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-07,Prepaid Amort,
+609,229,2024-07-09,6060,Software & IT,2226.0,0.0,MIA software & IT subscriptions - 2024-07,Cash,
+610,229,2024-07-09,1000,Cash - Operating,0.0,2226.0,MIA software & IT subscriptions - 2024-07,Cash,
+611,230,2024-07-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-07,Adjusting Entry,
+612,230,2024-07-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-07,Adjusting Entry,
+613,231,2024-07-05,2000,Accounts Payable,3882.11,0.0,MIA AP payment run (prior month invoices) - 2024-07,Cash,
+614,231,2024-07-05,1000,Cash - Operating,0.0,3882.11,MIA AP payment run (prior month invoices) - 2024-07,Cash,
+671,252,2024-07-22,1300,Intercompany Receivable,3417.44,0.0,Shared services billed to branch 2 - 2024-07,Intercompany,CHI
+672,252,2024-07-22,4090,Intercompany Shared Services Revenue,0.0,3417.44,Shared services billed to branch 2 - 2024-07,Intercompany,CHI
+677,255,2024-07-25,1000,Cash - Operating,3385.2,0.0,Intercompany settlement received from branch 2 - 2024-07,Intercompany Cash,CHI
+678,255,2024-07-25,1300,Intercompany Receivable,0.0,3385.2,Intercompany settlement received from branch 2 - 2024-07,Intercompany Cash,CHI
+679,256,2024-07-22,1300,Intercompany Receivable,3031.6,0.0,Shared services billed to branch 3 - 2024-07,Intercompany,DAL
+680,256,2024-07-22,4090,Intercompany Shared Services Revenue,0.0,3031.6,Shared services billed to branch 3 - 2024-07,Intercompany,DAL
+685,259,2024-07-25,1000,Cash - Operating,3003.0,0.0,Intercompany settlement received from branch 3 - 2024-07,Intercompany Cash,DAL
+686,259,2024-07-25,1300,Intercompany Receivable,0.0,3003.0,Intercompany settlement received from branch 3 - 2024-07,Intercompany Cash,DAL
+687,260,2024-08-12,1100,Accounts Receivable,91346.81,0.0,MIA legal fees billed - 2024-08,Billing,
+688,260,2024-08-12,4010,Litigation Fees,0.0,38365.66,MIA legal fees billed - 2024-08,Billing,
+689,260,2024-08-12,4020,Corporate & Transactional Fees,0.0,30144.45,MIA legal fees billed - 2024-08,Billing,
+690,260,2024-08-12,4030,Family Law Fees,0.0,22836.7,MIA legal fees billed - 2024-08,Billing,
+691,261,2024-08-26,1000,Cash - Operating,80920.56,0.0,MIA client fee collections - 2024-08,Cash Receipt,
+692,261,2024-08-26,1100,Accounts Receivable,0.0,80920.56,MIA client fee collections - 2024-08,Cash Receipt,
+693,262,2024-08-15,5010,Court Filing Fees,5187.9,0.0,MIA direct case costs - 2024-08,AP/Cash,
+694,262,2024-08-15,5020,Expert Witness Fees,4244.65,0.0,MIA direct case costs - 2024-08,AP/Cash,
+695,262,2024-08-15,1000,Cash - Operating,0.0,6602.78,MIA direct case costs - 2024-08,AP/Cash,
+696,262,2024-08-15,2000,Accounts Payable,0.0,2829.77,MIA direct case costs - 2024-08,AP/Cash,
+697,263,2024-08-28,6010,Attorney & Staff Payroll,44444.0,0.0,MIA payroll run - 2024-08,Payroll,
+698,263,2024-08-28,6020,Payroll Taxes & Benefits,6222.16,0.0,MIA payroll run - 2024-08,Payroll,
+699,263,2024-08-28,1000,Cash - Operating,0.0,50610.07,MIA payroll run - 2024-08,Payroll,
+700,263,2024-08-28,2100,Accrued Payroll,0.0,5066.62,MIA payroll run - 2024-08,Payroll,
+701,263,2024-08-28,2100,Accrued Payroll,5010.53,0.0,MIA payroll run - 2024-08,Payroll,
+702,264,2024-08-01,6030,Office Rent,7038.0,0.0,MIA office rent - 2024-08,Cash,
+703,264,2024-08-01,1000,Cash - Operating,0.0,7038.0,MIA office rent - 2024-08,Cash,
+704,265,2024-08-19,6040,Marketing & Business Development,2931.07,0.0,MIA marketing spend - 2024-08,AP/Cash,
+705,265,2024-08-19,1000,Cash - Operating,0.0,2344.86,MIA marketing spend - 2024-08,AP/Cash,
+706,265,2024-08-19,2000,Accounts Payable,0.0,586.21,MIA marketing spend - 2024-08,AP/Cash,
+707,266,2024-08-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-08,Prepaid Amort,
+708,266,2024-08-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-08,Prepaid Amort,
+709,267,2024-08-09,6060,Software & IT,2247.0,0.0,MIA software & IT subscriptions - 2024-08,Cash,
+710,267,2024-08-09,1000,Cash - Operating,0.0,2247.0,MIA software & IT subscriptions - 2024-08,Cash,
+711,268,2024-08-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-08,Adjusting Entry,
+712,268,2024-08-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-08,Adjusting Entry,
+713,269,2024-08-05,2000,Accounts Payable,3777.49,0.0,MIA AP payment run (prior month invoices) - 2024-08,Cash,
+714,269,2024-08-05,1000,Cash - Operating,0.0,3777.49,MIA AP payment run (prior month invoices) - 2024-08,Cash,
+771,290,2024-08-20,1300,Intercompany Receivable,3449.68,0.0,Shared services billed to branch 2 - 2024-08,Intercompany,CHI
+772,290,2024-08-20,4090,Intercompany Shared Services Revenue,0.0,3449.68,Shared services billed to branch 2 - 2024-08,Intercompany,CHI
+777,293,2024-08-26,1000,Cash - Operating,3417.44,0.0,Intercompany settlement received from branch 2 - 2024-08,Intercompany Cash,CHI
+778,293,2024-08-26,1300,Intercompany Receivable,0.0,3417.44,Intercompany settlement received from branch 2 - 2024-08,Intercompany Cash,CHI
+779,294,2024-08-20,1300,Intercompany Receivable,3060.2,0.0,Shared services billed to branch 3 - 2024-08,Intercompany,DAL
+780,294,2024-08-20,4090,Intercompany Shared Services Revenue,0.0,3060.2,Shared services billed to branch 3 - 2024-08,Intercompany,DAL
+785,297,2024-08-26,1000,Cash - Operating,3031.6,0.0,Intercompany settlement received from branch 3 - 2024-08,Intercompany Cash,DAL
+786,297,2024-08-26,1300,Intercompany Receivable,0.0,3031.6,Intercompany settlement received from branch 3 - 2024-08,Intercompany Cash,DAL
+787,298,2024-09-12,1100,Accounts Receivable,100145.0,0.0,MIA legal fees billed - 2024-09,Billing,
+788,298,2024-09-12,4010,Litigation Fees,0.0,42060.9,MIA legal fees billed - 2024-09,Billing,
+789,298,2024-09-12,4020,Corporate & Transactional Fees,0.0,33047.85,MIA legal fees billed - 2024-09,Billing,
+790,298,2024-09-12,4030,Family Law Fees,0.0,25036.25,MIA legal fees billed - 2024-09,Billing,
+791,299,2024-09-24,1000,Cash - Operating,93231.9,0.0,MIA client fee collections - 2024-09,Cash Receipt,
+792,299,2024-09-24,1100,Accounts Receivable,0.0,93231.9,MIA client fee collections - 2024-09,Cash Receipt,
+793,300,2024-09-16,5010,Court Filing Fees,5687.58,0.0,MIA direct case costs - 2024-09,AP/Cash,
+794,300,2024-09-16,5020,Expert Witness Fees,4653.48,0.0,MIA direct case costs - 2024-09,AP/Cash,
+795,300,2024-09-16,1000,Cash - Operating,0.0,7238.74,MIA direct case costs - 2024-09,AP/Cash,
+796,300,2024-09-16,2000,Accounts Payable,0.0,3102.32,MIA direct case costs - 2024-09,AP/Cash,
+797,301,2024-09-30,6010,Attorney & Staff Payroll,44936.0,0.0,MIA payroll run - 2024-09,Payroll,
+798,301,2024-09-30,6020,Payroll Taxes & Benefits,6291.04,0.0,MIA payroll run - 2024-09,Payroll,
+799,301,2024-09-30,1000,Cash - Operating,0.0,51170.96,MIA payroll run - 2024-09,Payroll,
+800,301,2024-09-30,2100,Accrued Payroll,0.0,5122.7,MIA payroll run - 2024-09,Payroll,
+801,301,2024-09-30,2100,Accrued Payroll,5066.62,0.0,MIA payroll run - 2024-09,Payroll,
+802,302,2024-09-02,6030,Office Rent,7072.0,0.0,MIA office rent - 2024-09,Cash,
+803,302,2024-09-02,1000,Cash - Operating,0.0,7072.0,MIA office rent - 2024-09,Cash,
+804,303,2024-09-18,6040,Marketing & Business Development,3178.2,0.0,MIA marketing spend - 2024-09,AP/Cash,
+805,303,2024-09-18,1000,Cash - Operating,0.0,2542.56,MIA marketing spend - 2024-09,AP/Cash,
+806,303,2024-09-18,2000,Accounts Payable,0.0,635.64,MIA marketing spend - 2024-09,AP/Cash,
+807,304,2024-09-02,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-09,Prepaid Amort,
+808,304,2024-09-02,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-09,Prepaid Amort,
+809,305,2024-09-09,6060,Software & IT,2268.0,0.0,MIA software & IT subscriptions - 2024-09,Cash,
+810,305,2024-09-09,1000,Cash - Operating,0.0,2268.0,MIA software & IT subscriptions - 2024-09,Cash,
+811,306,2024-09-30,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-09,Adjusting Entry,
+812,306,2024-09-30,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-09,Adjusting Entry,
+813,307,2024-09-05,2000,Accounts Payable,3415.98,0.0,MIA AP payment run (prior month invoices) - 2024-09,Cash,
+814,307,2024-09-05,1000,Cash - Operating,0.0,3415.98,MIA AP payment run (prior month invoices) - 2024-09,Cash,
+871,328,2024-09-20,1300,Intercompany Receivable,3481.92,0.0,Shared services billed to branch 2 - 2024-09,Intercompany,CHI
+872,328,2024-09-20,4090,Intercompany Shared Services Revenue,0.0,3481.92,Shared services billed to branch 2 - 2024-09,Intercompany,CHI
+877,331,2024-09-25,1000,Cash - Operating,3449.68,0.0,Intercompany settlement received from branch 2 - 2024-09,Intercompany Cash,CHI
+878,331,2024-09-25,1300,Intercompany Receivable,0.0,3449.68,Intercompany settlement received from branch 2 - 2024-09,Intercompany Cash,CHI
+879,332,2024-09-20,1300,Intercompany Receivable,3088.8,0.0,Shared services billed to branch 3 - 2024-09,Intercompany,DAL
+880,332,2024-09-20,4090,Intercompany Shared Services Revenue,0.0,3088.8,Shared services billed to branch 3 - 2024-09,Intercompany,DAL
+885,335,2024-09-25,1000,Cash - Operating,3060.2,0.0,Intercompany settlement received from branch 3 - 2024-09,Intercompany Cash,DAL
+886,335,2024-09-25,1300,Intercompany Receivable,0.0,3060.2,Intercompany settlement received from branch 3 - 2024-09,Intercompany Cash,DAL
+887,336,2024-10-14,1100,Accounts Receivable,92298.26,0.0,MIA legal fees billed - 2024-10,Billing,
+888,336,2024-10-14,4010,Litigation Fees,0.0,38765.27,MIA legal fees billed - 2024-10,Billing,
+889,336,2024-10-14,4020,Corporate & Transactional Fees,0.0,30458.43,MIA legal fees billed - 2024-10,Billing,
+890,336,2024-10-14,4030,Family Law Fees,0.0,23074.56,MIA legal fees billed - 2024-10,Billing,
+891,337,2024-10-24,1000,Cash - Operating,87146.06,0.0,MIA client fee collections - 2024-10,Cash Receipt,
+892,337,2024-10-24,1100,Accounts Receivable,0.0,87146.06,MIA client fee collections - 2024-10,Cash Receipt,
+893,338,2024-10-15,5010,Court Filing Fees,5241.94,0.0,MIA direct case costs - 2024-10,AP/Cash,
+894,338,2024-10-15,5020,Expert Witness Fees,4288.86,0.0,MIA direct case costs - 2024-10,AP/Cash,
+895,338,2024-10-15,1000,Cash - Operating,0.0,6671.56,MIA direct case costs - 2024-10,AP/Cash,
+896,338,2024-10-15,2000,Accounts Payable,0.0,2859.24,MIA direct case costs - 2024-10,AP/Cash,
+897,339,2024-10-28,6010,Attorney & Staff Payroll,45428.0,0.0,MIA payroll run - 2024-10,Payroll,
+898,339,2024-10-28,6020,Payroll Taxes & Benefits,6359.92,0.0,MIA payroll run - 2024-10,Payroll,
+899,339,2024-10-28,1000,Cash - Operating,0.0,51731.83,MIA payroll run - 2024-10,Payroll,
+900,339,2024-10-28,2100,Accrued Payroll,0.0,5178.79,MIA payroll run - 2024-10,Payroll,
+901,339,2024-10-28,2100,Accrued Payroll,5122.7,0.0,MIA payroll run - 2024-10,Payroll,
+902,340,2024-10-01,6030,Office Rent,7106.0,0.0,MIA office rent - 2024-10,Cash,
+903,340,2024-10-01,1000,Cash - Operating,0.0,7106.0,MIA office rent - 2024-10,Cash,
+904,341,2024-10-18,6040,Marketing & Business Development,2897.45,0.0,MIA marketing spend - 2024-10,AP/Cash,
+905,341,2024-10-18,1000,Cash - Operating,0.0,2317.96,MIA marketing spend - 2024-10,AP/Cash,
+906,341,2024-10-18,2000,Accounts Payable,0.0,579.49,MIA marketing spend - 2024-10,AP/Cash,
+907,342,2024-10-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-10,Prepaid Amort,
+908,342,2024-10-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-10,Prepaid Amort,
+909,343,2024-10-09,6060,Software & IT,2289.0,0.0,MIA software & IT subscriptions - 2024-10,Cash,
+910,343,2024-10-09,1000,Cash - Operating,0.0,2289.0,MIA software & IT subscriptions - 2024-10,Cash,
+911,344,2024-10-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-10,Adjusting Entry,
+912,344,2024-10-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-10,Adjusting Entry,
+913,345,2024-10-07,2000,Accounts Payable,3737.96,0.0,MIA AP payment run (prior month invoices) - 2024-10,Cash,
+914,345,2024-10-07,1000,Cash - Operating,0.0,3737.96,MIA AP payment run (prior month invoices) - 2024-10,Cash,
+971,366,2024-10-21,1300,Intercompany Receivable,3514.16,0.0,Shared services billed to branch 2 - 2024-10,Intercompany,CHI
+972,366,2024-10-21,4090,Intercompany Shared Services Revenue,0.0,3514.16,Shared services billed to branch 2 - 2024-10,Intercompany,CHI
+977,369,2024-10-25,1000,Cash - Operating,3481.92,0.0,Intercompany settlement received from branch 2 - 2024-10,Intercompany Cash,CHI
+978,369,2024-10-25,1300,Intercompany Receivable,0.0,3481.92,Intercompany settlement received from branch 2 - 2024-10,Intercompany Cash,CHI
+979,370,2024-10-21,1300,Intercompany Receivable,3117.4,0.0,Shared services billed to branch 3 - 2024-10,Intercompany,DAL
+980,370,2024-10-21,4090,Intercompany Shared Services Revenue,0.0,3117.4,Shared services billed to branch 3 - 2024-10,Intercompany,DAL
+985,373,2024-10-25,1000,Cash - Operating,3088.8,0.0,Intercompany settlement received from branch 3 - 2024-10,Intercompany Cash,DAL
+986,373,2024-10-25,1300,Intercompany Receivable,0.0,3088.8,Intercompany settlement received from branch 3 - 2024-10,Intercompany Cash,DAL
+987,374,2024-11-12,1100,Accounts Receivable,109251.24,0.0,MIA legal fees billed - 2024-11,Billing,
+988,374,2024-11-12,4010,Litigation Fees,0.0,45885.52,MIA legal fees billed - 2024-11,Billing,
+989,374,2024-11-12,4020,Corporate & Transactional Fees,0.0,36052.91,MIA legal fees billed - 2024-11,Billing,
+990,374,2024-11-12,4030,Family Law Fees,0.0,27312.81,MIA legal fees billed - 2024-11,Billing,
+991,375,2024-11-25,1000,Cash - Operating,99507.74,0.0,MIA client fee collections - 2024-11,Cash Receipt,
+992,375,2024-11-25,1100,Accounts Receivable,0.0,99507.74,MIA client fee collections - 2024-11,Cash Receipt,
+993,376,2024-11-15,5010,Court Filing Fees,6204.76,0.0,MIA direct case costs - 2024-11,AP/Cash,
+994,376,2024-11-15,5020,Expert Witness Fees,5076.62,0.0,MIA direct case costs - 2024-11,AP/Cash,
+995,376,2024-11-15,1000,Cash - Operating,0.0,7896.97,MIA direct case costs - 2024-11,AP/Cash,
+996,376,2024-11-15,2000,Accounts Payable,0.0,3384.41,MIA direct case costs - 2024-11,AP/Cash,
+997,377,2024-11-28,6010,Attorney & Staff Payroll,45920.0,0.0,MIA payroll run - 2024-11,Payroll,
+998,377,2024-11-28,6020,Payroll Taxes & Benefits,6428.8,0.0,MIA payroll run - 2024-11,Payroll,
+999,377,2024-11-28,1000,Cash - Operating,0.0,52292.71,MIA payroll run - 2024-11,Payroll,
+1000,377,2024-11-28,2100,Accrued Payroll,0.0,5234.88,MIA payroll run - 2024-11,Payroll,
+1001,377,2024-11-28,2100,Accrued Payroll,5178.79,0.0,MIA payroll run - 2024-11,Payroll,
+1002,378,2024-11-01,6030,Office Rent,7140.0,0.0,MIA office rent - 2024-11,Cash,
+1003,378,2024-11-01,1000,Cash - Operating,0.0,7140.0,MIA office rent - 2024-11,Cash,
+1004,379,2024-11-18,6040,Marketing & Business Development,3392.9,0.0,MIA marketing spend - 2024-11,AP/Cash,
+1005,379,2024-11-18,1000,Cash - Operating,0.0,2714.32,MIA marketing spend - 2024-11,AP/Cash,
+1006,379,2024-11-18,2000,Accounts Payable,0.0,678.58,MIA marketing spend - 2024-11,AP/Cash,
+1007,380,2024-11-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-11,Prepaid Amort,
+1008,380,2024-11-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-11,Prepaid Amort,
+1009,381,2024-11-11,6060,Software & IT,2310.0,0.0,MIA software & IT subscriptions - 2024-11,Cash,
+1010,381,2024-11-11,1000,Cash - Operating,0.0,2310.0,MIA software & IT subscriptions - 2024-11,Cash,
+1011,382,2024-11-30,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-11,Adjusting Entry,
+1012,382,2024-11-30,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-11,Adjusting Entry,
+1013,383,2024-11-05,2000,Accounts Payable,3438.73,0.0,MIA AP payment run (prior month invoices) - 2024-11,Cash,
+1014,383,2024-11-05,1000,Cash - Operating,0.0,3438.73,MIA AP payment run (prior month invoices) - 2024-11,Cash,
+1071,404,2024-11-20,1300,Intercompany Receivable,3546.4,0.0,Shared services billed to branch 2 - 2024-11,Intercompany,CHI
+1072,404,2024-11-20,4090,Intercompany Shared Services Revenue,0.0,3546.4,Shared services billed to branch 2 - 2024-11,Intercompany,CHI
+1077,407,2024-11-25,1000,Cash - Operating,3514.16,0.0,Intercompany settlement received from branch 2 - 2024-11,Intercompany Cash,CHI
+1078,407,2024-11-25,1300,Intercompany Receivable,0.0,3514.16,Intercompany settlement received from branch 2 - 2024-11,Intercompany Cash,CHI
+1079,408,2024-11-20,1300,Intercompany Receivable,3146.0,0.0,Shared services billed to branch 3 - 2024-11,Intercompany,DAL
+1080,408,2024-11-20,4090,Intercompany Shared Services Revenue,0.0,3146.0,Shared services billed to branch 3 - 2024-11,Intercompany,DAL
+1085,411,2024-11-25,1000,Cash - Operating,3117.4,0.0,Intercompany settlement received from branch 3 - 2024-11,Intercompany Cash,DAL
+1086,411,2024-11-25,1300,Intercompany Receivable,0.0,3117.4,Intercompany settlement received from branch 3 - 2024-11,Intercompany Cash,DAL
+1087,412,2024-12-12,1100,Accounts Receivable,103579.06,0.0,MIA legal fees billed - 2024-12,Billing,
+1088,412,2024-12-12,4010,Litigation Fees,0.0,43503.21,MIA legal fees billed - 2024-12,Billing,
+1089,412,2024-12-12,4020,Corporate & Transactional Fees,0.0,34181.09,MIA legal fees billed - 2024-12,Billing,
+1090,412,2024-12-12,4030,Family Law Fees,0.0,25894.76,MIA legal fees billed - 2024-12,Billing,
+1091,413,2024-12-24,1000,Cash - Operating,94813.45,0.0,MIA client fee collections - 2024-12,Cash Receipt,
+1092,413,2024-12-24,1100,Accounts Receivable,0.0,94813.45,MIA client fee collections - 2024-12,Cash Receipt,
+1093,414,2024-12-16,5010,Court Filing Fees,5882.61,0.0,MIA direct case costs - 2024-12,AP/Cash,
+1094,414,2024-12-16,5020,Expert Witness Fees,4813.05,0.0,MIA direct case costs - 2024-12,AP/Cash,
+1095,414,2024-12-16,1000,Cash - Operating,0.0,7486.96,MIA direct case costs - 2024-12,AP/Cash,
+1096,414,2024-12-16,2000,Accounts Payable,0.0,3208.7,MIA direct case costs - 2024-12,AP/Cash,
+1097,415,2024-12-30,6010,Attorney & Staff Payroll,46412.0,0.0,MIA payroll run - 2024-12,Payroll,
+1098,415,2024-12-30,6020,Payroll Taxes & Benefits,6497.68,0.0,MIA payroll run - 2024-12,Payroll,
+1099,415,2024-12-30,1000,Cash - Operating,0.0,52853.59,MIA payroll run - 2024-12,Payroll,
+1100,415,2024-12-30,2100,Accrued Payroll,0.0,5290.97,MIA payroll run - 2024-12,Payroll,
+1101,415,2024-12-30,2100,Accrued Payroll,5234.88,0.0,MIA payroll run - 2024-12,Payroll,
+1102,416,2024-12-02,6030,Office Rent,7174.0,0.0,MIA office rent - 2024-12,Cash,
+1103,416,2024-12-02,1000,Cash - Operating,0.0,7174.0,MIA office rent - 2024-12,Cash,
+1104,417,2024-12-18,6040,Marketing & Business Development,3182.64,0.0,MIA marketing spend - 2024-12,AP/Cash,
+1105,417,2024-12-18,1000,Cash - Operating,0.0,2546.11,MIA marketing spend - 2024-12,AP/Cash,
+1106,417,2024-12-18,2000,Accounts Payable,0.0,636.53,MIA marketing spend - 2024-12,AP/Cash,
+1107,418,2024-12-02,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2024-12,Prepaid Amort,
+1108,418,2024-12-02,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2024-12,Prepaid Amort,
+1109,419,2024-12-09,6060,Software & IT,2331.0,0.0,MIA software & IT subscriptions - 2024-12,Cash,
+1110,419,2024-12-09,1000,Cash - Operating,0.0,2331.0,MIA software & IT subscriptions - 2024-12,Cash,
+1111,420,2024-12-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2024-12,Adjusting Entry,
+1112,420,2024-12-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2024-12,Adjusting Entry,
+1113,421,2024-12-05,2000,Accounts Payable,4062.99,0.0,MIA AP payment run (prior month invoices) - 2024-12,Cash,
+1114,421,2024-12-05,1000,Cash - Operating,0.0,4062.99,MIA AP payment run (prior month invoices) - 2024-12,Cash,
+1171,442,2024-12-20,1300,Intercompany Receivable,3578.64,0.0,Shared services billed to branch 2 - 2024-12,Intercompany,CHI
+1172,442,2024-12-20,4090,Intercompany Shared Services Revenue,0.0,3578.64,Shared services billed to branch 2 - 2024-12,Intercompany,CHI
+1177,445,2024-12-25,1000,Cash - Operating,3546.4,0.0,Intercompany settlement received from branch 2 - 2024-12,Intercompany Cash,CHI
+1178,445,2024-12-25,1300,Intercompany Receivable,0.0,3546.4,Intercompany settlement received from branch 2 - 2024-12,Intercompany Cash,CHI
+1179,446,2024-12-20,1300,Intercompany Receivable,3174.6,0.0,Shared services billed to branch 3 - 2024-12,Intercompany,DAL
+1180,446,2024-12-20,4090,Intercompany Shared Services Revenue,0.0,3174.6,Shared services billed to branch 3 - 2024-12,Intercompany,DAL
+1185,449,2024-12-25,1000,Cash - Operating,3146.0,0.0,Intercompany settlement received from branch 3 - 2024-12,Intercompany Cash,DAL
+1186,449,2024-12-25,1300,Intercompany Receivable,0.0,3146.0,Intercompany settlement received from branch 3 - 2024-12,Intercompany Cash,DAL
+1187,450,2025-01-13,1100,Accounts Receivable,98795.78,0.0,MIA legal fees billed - 2025-01,Billing,
+1188,450,2025-01-13,4010,Litigation Fees,0.0,41494.23,MIA legal fees billed - 2025-01,Billing,
+1189,450,2025-01-13,4020,Corporate & Transactional Fees,0.0,32602.61,MIA legal fees billed - 2025-01,Billing,
+1190,450,2025-01-13,4030,Family Law Fees,0.0,24698.94,MIA legal fees billed - 2025-01,Billing,
+1191,451,2025-01-24,1000,Cash - Operating,88909.87,0.0,MIA client fee collections - 2025-01,Cash Receipt,
+1192,451,2025-01-24,1100,Accounts Receivable,0.0,88909.87,MIA client fee collections - 2025-01,Cash Receipt,
+1193,452,2025-01-15,5010,Court Filing Fees,5610.96,0.0,MIA direct case costs - 2025-01,AP/Cash,
+1194,452,2025-01-15,5020,Expert Witness Fees,4590.78,0.0,MIA direct case costs - 2025-01,AP/Cash,
+1195,452,2025-01-15,1000,Cash - Operating,0.0,7141.22,MIA direct case costs - 2025-01,AP/Cash,
+1196,452,2025-01-15,2000,Accounts Payable,0.0,3060.52,MIA direct case costs - 2025-01,AP/Cash,
+1197,453,2025-01-28,6010,Attorney & Staff Payroll,46904.0,0.0,MIA payroll run - 2025-01,Payroll,
+1198,453,2025-01-28,6020,Payroll Taxes & Benefits,6566.56,0.0,MIA payroll run - 2025-01,Payroll,
+1199,453,2025-01-28,1000,Cash - Operating,0.0,53414.47,MIA payroll run - 2025-01,Payroll,
+1200,453,2025-01-28,2100,Accrued Payroll,0.0,5347.06,MIA payroll run - 2025-01,Payroll,
+1201,453,2025-01-28,2100,Accrued Payroll,5290.97,0.0,MIA payroll run - 2025-01,Payroll,
+1202,454,2025-01-01,6030,Office Rent,7208.0,0.0,MIA office rent - 2025-01,Cash,
+1203,454,2025-01-01,1000,Cash - Operating,0.0,7208.0,MIA office rent - 2025-01,Cash,
+1204,455,2025-01-20,6040,Marketing & Business Development,3003.82,0.0,MIA marketing spend - 2025-01,AP/Cash,
+1205,455,2025-01-20,1000,Cash - Operating,0.0,2403.06,MIA marketing spend - 2025-01,AP/Cash,
+1206,455,2025-01-20,2000,Accounts Payable,0.0,600.76,MIA marketing spend - 2025-01,AP/Cash,
+1207,456,2025-01-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2025-01,Prepaid Amort,
+1208,456,2025-01-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2025-01,Prepaid Amort,
+1209,457,2025-01-09,6060,Software & IT,2352.0,0.0,MIA software & IT subscriptions - 2025-01,Cash,
+1210,457,2025-01-09,1000,Cash - Operating,0.0,2352.0,MIA software & IT subscriptions - 2025-01,Cash,
+1211,458,2025-01-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2025-01,Adjusting Entry,
+1212,458,2025-01-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2025-01,Adjusting Entry,
+1213,459,2025-01-06,2000,Accounts Payable,3845.23,0.0,MIA AP payment run (prior month invoices) - 2025-01,Cash,
+1214,459,2025-01-06,1000,Cash - Operating,0.0,3845.23,MIA AP payment run (prior month invoices) - 2025-01,Cash,
+1271,480,2025-01-20,1300,Intercompany Receivable,3610.88,0.0,Shared services billed to branch 2 - 2025-01,Intercompany,CHI
+1272,480,2025-01-20,4090,Intercompany Shared Services Revenue,0.0,3610.88,Shared services billed to branch 2 - 2025-01,Intercompany,CHI
+1277,483,2025-01-27,1000,Cash - Operating,3578.64,0.0,Intercompany settlement received from branch 2 - 2025-01,Intercompany Cash,CHI
+1278,483,2025-01-27,1300,Intercompany Receivable,0.0,3578.64,Intercompany settlement received from branch 2 - 2025-01,Intercompany Cash,CHI
+1279,484,2025-01-20,1300,Intercompany Receivable,3203.2,0.0,Shared services billed to branch 3 - 2025-01,Intercompany,DAL
+1280,484,2025-01-20,4090,Intercompany Shared Services Revenue,0.0,3203.2,Shared services billed to branch 3 - 2025-01,Intercompany,DAL
+1285,487,2025-01-27,1000,Cash - Operating,3174.6,0.0,Intercompany settlement received from branch 3 - 2025-01,Intercompany Cash,DAL
+1286,487,2025-01-27,1300,Intercompany Receivable,0.0,3174.6,Intercompany settlement received from branch 3 - 2025-01,Intercompany Cash,DAL
+1287,488,2025-02-12,1100,Accounts Receivable,112245.2,0.0,MIA legal fees billed - 2025-02,Billing,
+1288,488,2025-02-12,4010,Litigation Fees,0.0,47142.98,MIA legal fees billed - 2025-02,Billing,
+1289,488,2025-02-12,4020,Corporate & Transactional Fees,0.0,37040.92,MIA legal fees billed - 2025-02,Billing,
+1290,488,2025-02-12,4030,Family Law Fees,0.0,28061.3,MIA legal fees billed - 2025-02,Billing,
+1291,489,2025-02-24,1000,Cash - Operating,102509.27,0.0,MIA client fee collections - 2025-02,Cash Receipt,
+1292,489,2025-02-24,1100,Accounts Receivable,0.0,102509.27,MIA client fee collections - 2025-02,Cash Receipt,
+1293,490,2025-02-17,5010,Court Filing Fees,6374.8,0.0,MIA direct case costs - 2025-02,AP/Cash,
+1294,490,2025-02-17,5020,Expert Witness Fees,5215.74,0.0,MIA direct case costs - 2025-02,AP/Cash,
+1295,490,2025-02-17,1000,Cash - Operating,0.0,8113.38,MIA direct case costs - 2025-02,AP/Cash,
+1296,490,2025-02-17,2000,Accounts Payable,0.0,3477.16,MIA direct case costs - 2025-02,AP/Cash,
+1297,491,2025-02-28,6010,Attorney & Staff Payroll,47396.0,0.0,MIA payroll run - 2025-02,Payroll,
+1298,491,2025-02-28,6020,Payroll Taxes & Benefits,6635.44,0.0,MIA payroll run - 2025-02,Payroll,
+1299,491,2025-02-28,1000,Cash - Operating,0.0,53975.36,MIA payroll run - 2025-02,Payroll,
+1300,491,2025-02-28,2100,Accrued Payroll,0.0,5403.14,MIA payroll run - 2025-02,Payroll,
+1301,491,2025-02-28,2100,Accrued Payroll,5347.06,0.0,MIA payroll run - 2025-02,Payroll,
+1302,492,2025-02-03,6030,Office Rent,7242.0,0.0,MIA office rent - 2025-02,Cash,
+1303,492,2025-02-03,1000,Cash - Operating,0.0,7242.0,MIA office rent - 2025-02,Cash,
+1304,493,2025-02-18,6040,Marketing & Business Development,3377.32,0.0,MIA marketing spend - 2025-02,AP/Cash,
+1305,493,2025-02-18,1000,Cash - Operating,0.0,2701.86,MIA marketing spend - 2025-02,AP/Cash,
+1306,493,2025-02-18,2000,Accounts Payable,0.0,675.46,MIA marketing spend - 2025-02,AP/Cash,
+1307,494,2025-02-03,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2025-02,Prepaid Amort,
+1308,494,2025-02-03,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2025-02,Prepaid Amort,
+1309,495,2025-02-10,6060,Software & IT,2373.0,0.0,MIA software & IT subscriptions - 2025-02,Cash,
+1310,495,2025-02-10,1000,Cash - Operating,0.0,2373.0,MIA software & IT subscriptions - 2025-02,Cash,
+1311,496,2025-02-28,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2025-02,Adjusting Entry,
+1312,496,2025-02-28,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2025-02,Adjusting Entry,
+1313,497,2025-02-05,2000,Accounts Payable,3661.28,0.0,MIA AP payment run (prior month invoices) - 2025-02,Cash,
+1314,497,2025-02-05,1000,Cash - Operating,0.0,3661.28,MIA AP payment run (prior month invoices) - 2025-02,Cash,
+1371,518,2025-02-20,1300,Intercompany Receivable,3643.12,0.0,Shared services billed to branch 2 - 2025-02,Intercompany,CHI
+1372,518,2025-02-20,4090,Intercompany Shared Services Revenue,0.0,3643.12,Shared services billed to branch 2 - 2025-02,Intercompany,CHI
+1377,521,2025-02-25,1000,Cash - Operating,3610.88,0.0,Intercompany settlement received from branch 2 - 2025-02,Intercompany Cash,CHI
+1378,521,2025-02-25,1300,Intercompany Receivable,0.0,3610.88,Intercompany settlement received from branch 2 - 2025-02,Intercompany Cash,CHI
+1379,522,2025-02-20,1300,Intercompany Receivable,3231.8,0.0,Shared services billed to branch 3 - 2025-02,Intercompany,DAL
+1380,522,2025-02-20,4090,Intercompany Shared Services Revenue,0.0,3231.8,Shared services billed to branch 3 - 2025-02,Intercompany,DAL
+1385,525,2025-02-25,1000,Cash - Operating,3203.2,0.0,Intercompany settlement received from branch 3 - 2025-02,Intercompany Cash,DAL
+1386,525,2025-02-25,1300,Intercompany Receivable,0.0,3203.2,Intercompany settlement received from branch 3 - 2025-02,Intercompany Cash,DAL
+1387,526,2025-03-12,1100,Accounts Receivable,97351.1,0.0,MIA legal fees billed - 2025-03,Billing,
+1388,526,2025-03-12,4010,Litigation Fees,0.0,40887.46,MIA legal fees billed - 2025-03,Billing,
+1389,526,2025-03-12,4020,Corporate & Transactional Fees,0.0,32125.86,MIA legal fees billed - 2025-03,Billing,
+1390,526,2025-03-12,4030,Family Law Fees,0.0,24337.78,MIA legal fees billed - 2025-03,Billing,
+1391,527,2025-03-24,1000,Cash - Operating,86060.59,0.0,MIA client fee collections - 2025-03,Cash Receipt,
+1392,527,2025-03-24,1100,Accounts Receivable,0.0,86060.59,MIA client fee collections - 2025-03,Cash Receipt,
+1393,528,2025-03-17,5010,Court Filing Fees,5528.91,0.0,MIA direct case costs - 2025-03,AP/Cash,
+1394,528,2025-03-17,5020,Expert Witness Fees,4523.65,0.0,MIA direct case costs - 2025-03,AP/Cash,
+1395,528,2025-03-17,1000,Cash - Operating,0.0,7036.79,MIA direct case costs - 2025-03,AP/Cash,
+1396,528,2025-03-17,2000,Accounts Payable,0.0,3015.77,MIA direct case costs - 2025-03,AP/Cash,
+1397,529,2025-03-28,6010,Attorney & Staff Payroll,47888.0,0.0,MIA payroll run - 2025-03,Payroll,
+1398,529,2025-03-28,6020,Payroll Taxes & Benefits,6704.32,0.0,MIA payroll run - 2025-03,Payroll,
+1399,529,2025-03-28,1000,Cash - Operating,0.0,54536.23,MIA payroll run - 2025-03,Payroll,
+1400,529,2025-03-28,2100,Accrued Payroll,0.0,5459.23,MIA payroll run - 2025-03,Payroll,
+1401,529,2025-03-28,2100,Accrued Payroll,5403.14,0.0,MIA payroll run - 2025-03,Payroll,
+1402,530,2025-03-03,6030,Office Rent,7276.0,0.0,MIA office rent - 2025-03,Cash,
+1403,530,2025-03-03,1000,Cash - Operating,0.0,7276.0,MIA office rent - 2025-03,Cash,
+1404,531,2025-03-18,6040,Marketing & Business Development,2899.08,0.0,MIA marketing spend - 2025-03,AP/Cash,
+1405,531,2025-03-18,1000,Cash - Operating,0.0,2319.26,MIA marketing spend - 2025-03,AP/Cash,
+1406,531,2025-03-18,2000,Accounts Payable,0.0,579.82,MIA marketing spend - 2025-03,AP/Cash,
+1407,532,2025-03-03,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2025-03,Prepaid Amort,
+1408,532,2025-03-03,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2025-03,Prepaid Amort,
+1409,533,2025-03-10,6060,Software & IT,2394.0,0.0,MIA software & IT subscriptions - 2025-03,Cash,
+1410,533,2025-03-10,1000,Cash - Operating,0.0,2394.0,MIA software & IT subscriptions - 2025-03,Cash,
+1411,534,2025-03-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2025-03,Adjusting Entry,
+1412,534,2025-03-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2025-03,Adjusting Entry,
+1413,535,2025-03-05,2000,Accounts Payable,4152.62,0.0,MIA AP payment run (prior month invoices) - 2025-03,Cash,
+1414,535,2025-03-05,1000,Cash - Operating,0.0,4152.62,MIA AP payment run (prior month invoices) - 2025-03,Cash,
+1471,556,2025-03-20,1300,Intercompany Receivable,3675.36,0.0,Shared services billed to branch 2 - 2025-03,Intercompany,CHI
+1472,556,2025-03-20,4090,Intercompany Shared Services Revenue,0.0,3675.36,Shared services billed to branch 2 - 2025-03,Intercompany,CHI
+1477,559,2025-03-25,1000,Cash - Operating,3643.12,0.0,Intercompany settlement received from branch 2 - 2025-03,Intercompany Cash,CHI
+1478,559,2025-03-25,1300,Intercompany Receivable,0.0,3643.12,Intercompany settlement received from branch 2 - 2025-03,Intercompany Cash,CHI
+1479,560,2025-03-20,1300,Intercompany Receivable,3260.4,0.0,Shared services billed to branch 3 - 2025-03,Intercompany,DAL
+1480,560,2025-03-20,4090,Intercompany Shared Services Revenue,0.0,3260.4,Shared services billed to branch 3 - 2025-03,Intercompany,DAL
+1485,563,2025-03-25,1000,Cash - Operating,3231.8,0.0,Intercompany settlement received from branch 3 - 2025-03,Intercompany Cash,DAL
+1486,563,2025-03-25,1300,Intercompany Receivable,0.0,3231.8,Intercompany settlement received from branch 3 - 2025-03,Intercompany Cash,DAL
+1487,564,2025-04-14,1100,Accounts Receivable,117271.53,0.0,MIA legal fees billed - 2025-04,Billing,
+1488,564,2025-04-14,4010,Litigation Fees,0.0,49254.04,MIA legal fees billed - 2025-04,Billing,
+1489,564,2025-04-14,4020,Corporate & Transactional Fees,0.0,38699.6,MIA legal fees billed - 2025-04,Billing,
+1490,564,2025-04-14,4030,Family Law Fees,0.0,29317.89,MIA legal fees billed - 2025-04,Billing,
+1491,565,2025-04-24,1000,Cash - Operating,106125.64,0.0,MIA client fee collections - 2025-04,Cash Receipt,
+1492,565,2025-04-24,1100,Accounts Receivable,0.0,106125.64,MIA client fee collections - 2025-04,Cash Receipt,
+1493,566,2025-04-15,5010,Court Filing Fees,6660.26,0.0,MIA direct case costs - 2025-04,AP/Cash,
+1494,566,2025-04-15,5020,Expert Witness Fees,5449.3,0.0,MIA direct case costs - 2025-04,AP/Cash,
+1495,566,2025-04-15,1000,Cash - Operating,0.0,8476.69,MIA direct case costs - 2025-04,AP/Cash,
+1496,566,2025-04-15,2000,Accounts Payable,0.0,3632.87,MIA direct case costs - 2025-04,AP/Cash,
+1497,567,2025-04-28,6010,Attorney & Staff Payroll,48380.0,0.0,MIA payroll run - 2025-04,Payroll,
+1498,567,2025-04-28,6020,Payroll Taxes & Benefits,6773.2,0.0,MIA payroll run - 2025-04,Payroll,
+1499,567,2025-04-28,1000,Cash - Operating,0.0,55097.11,MIA payroll run - 2025-04,Payroll,
+1500,567,2025-04-28,2100,Accrued Payroll,0.0,5515.32,MIA payroll run - 2025-04,Payroll,
+1501,567,2025-04-28,2100,Accrued Payroll,5459.23,0.0,MIA payroll run - 2025-04,Payroll,
+1502,568,2025-04-01,6030,Office Rent,7310.0,0.0,MIA office rent - 2025-04,Cash,
+1503,568,2025-04-01,1000,Cash - Operating,0.0,7310.0,MIA office rent - 2025-04,Cash,
+1504,569,2025-04-18,6040,Marketing & Business Development,3456.79,0.0,MIA marketing spend - 2025-04,AP/Cash,
+1505,569,2025-04-18,1000,Cash - Operating,0.0,2765.43,MIA marketing spend - 2025-04,AP/Cash,
+1506,569,2025-04-18,2000,Accounts Payable,0.0,691.36,MIA marketing spend - 2025-04,AP/Cash,
+1507,570,2025-04-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2025-04,Prepaid Amort,
+1508,570,2025-04-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2025-04,Prepaid Amort,
+1509,571,2025-04-09,6060,Software & IT,2415.0,0.0,MIA software & IT subscriptions - 2025-04,Cash,
+1510,571,2025-04-09,1000,Cash - Operating,0.0,2415.0,MIA software & IT subscriptions - 2025-04,Cash,
+1511,572,2025-04-30,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2025-04,Adjusting Entry,
+1512,572,2025-04-30,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2025-04,Adjusting Entry,
+1513,573,2025-04-07,2000,Accounts Payable,3595.59,0.0,MIA AP payment run (prior month invoices) - 2025-04,Cash,
+1514,573,2025-04-07,1000,Cash - Operating,0.0,3595.59,MIA AP payment run (prior month invoices) - 2025-04,Cash,
+1571,594,2025-04-21,1300,Intercompany Receivable,3707.6,0.0,Shared services billed to branch 2 - 2025-04,Intercompany,CHI
+1572,594,2025-04-21,4090,Intercompany Shared Services Revenue,0.0,3707.6,Shared services billed to branch 2 - 2025-04,Intercompany,CHI
+1577,597,2025-04-25,1000,Cash - Operating,3675.36,0.0,Intercompany settlement received from branch 2 - 2025-04,Intercompany Cash,CHI
+1578,597,2025-04-25,1300,Intercompany Receivable,0.0,3675.36,Intercompany settlement received from branch 2 - 2025-04,Intercompany Cash,CHI
+1579,598,2025-04-21,1300,Intercompany Receivable,3289.0,0.0,Shared services billed to branch 3 - 2025-04,Intercompany,DAL
+1580,598,2025-04-21,4090,Intercompany Shared Services Revenue,0.0,3289.0,Shared services billed to branch 3 - 2025-04,Intercompany,DAL
+1585,601,2025-04-25,1000,Cash - Operating,3260.4,0.0,Intercompany settlement received from branch 3 - 2025-04,Intercompany Cash,DAL
+1586,601,2025-04-25,1300,Intercompany Receivable,0.0,3260.4,Intercompany settlement received from branch 3 - 2025-04,Intercompany Cash,DAL
+1587,602,2025-05-12,1100,Accounts Receivable,111681.6,0.0,MIA legal fees billed - 2025-05,Billing,
+1588,602,2025-05-12,4010,Litigation Fees,0.0,46906.27,MIA legal fees billed - 2025-05,Billing,
+1589,602,2025-05-12,4020,Corporate & Transactional Fees,0.0,36854.93,MIA legal fees billed - 2025-05,Billing,
+1590,602,2025-05-12,4030,Family Law Fees,0.0,27920.4,MIA legal fees billed - 2025-05,Billing,
+1591,603,2025-05-26,1000,Cash - Operating,100677.8,0.0,MIA client fee collections - 2025-05,Cash Receipt,
+1592,603,2025-05-26,1100,Accounts Receivable,0.0,100677.8,MIA client fee collections - 2025-05,Cash Receipt,
+1593,604,2025-05-15,5010,Court Filing Fees,6342.79,0.0,MIA direct case costs - 2025-05,AP/Cash,
+1594,604,2025-05-15,5020,Expert Witness Fees,5189.55,0.0,MIA direct case costs - 2025-05,AP/Cash,
+1595,604,2025-05-15,1000,Cash - Operating,0.0,8072.64,MIA direct case costs - 2025-05,AP/Cash,
+1596,604,2025-05-15,2000,Accounts Payable,0.0,3459.7,MIA direct case costs - 2025-05,AP/Cash,
+1597,605,2025-05-28,6010,Attorney & Staff Payroll,48872.0,0.0,MIA payroll run - 2025-05,Payroll,
+1598,605,2025-05-28,6020,Payroll Taxes & Benefits,6842.08,0.0,MIA payroll run - 2025-05,Payroll,
+1599,605,2025-05-28,1000,Cash - Operating,0.0,55657.99,MIA payroll run - 2025-05,Payroll,
+1600,605,2025-05-28,2100,Accrued Payroll,0.0,5571.41,MIA payroll run - 2025-05,Payroll,
+1601,605,2025-05-28,2100,Accrued Payroll,5515.32,0.0,MIA payroll run - 2025-05,Payroll,
+1602,606,2025-05-01,6030,Office Rent,7344.0,0.0,MIA office rent - 2025-05,Cash,
+1603,606,2025-05-01,1000,Cash - Operating,0.0,7344.0,MIA office rent - 2025-05,Cash,
+1604,607,2025-05-19,6040,Marketing & Business Development,3258.87,0.0,MIA marketing spend - 2025-05,AP/Cash,
+1605,607,2025-05-19,1000,Cash - Operating,0.0,2607.1,MIA marketing spend - 2025-05,AP/Cash,
+1606,607,2025-05-19,2000,Accounts Payable,0.0,651.77,MIA marketing spend - 2025-05,AP/Cash,
+1607,608,2025-05-01,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2025-05,Prepaid Amort,
+1608,608,2025-05-01,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2025-05,Prepaid Amort,
+1609,609,2025-05-09,6060,Software & IT,2436.0,0.0,MIA software & IT subscriptions - 2025-05,Cash,
+1610,609,2025-05-09,1000,Cash - Operating,0.0,2436.0,MIA software & IT subscriptions - 2025-05,Cash,
+1611,610,2025-05-31,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2025-05,Adjusting Entry,
+1612,610,2025-05-31,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2025-05,Adjusting Entry,
+1613,611,2025-05-05,2000,Accounts Payable,4324.23,0.0,MIA AP payment run (prior month invoices) - 2025-05,Cash,
+1614,611,2025-05-05,1000,Cash - Operating,0.0,4324.23,MIA AP payment run (prior month invoices) - 2025-05,Cash,
+1671,632,2025-05-20,1300,Intercompany Receivable,3739.84,0.0,Shared services billed to branch 2 - 2025-05,Intercompany,CHI
+1672,632,2025-05-20,4090,Intercompany Shared Services Revenue,0.0,3739.84,Shared services billed to branch 2 - 2025-05,Intercompany,CHI
+1677,635,2025-05-26,1000,Cash - Operating,3707.6,0.0,Intercompany settlement received from branch 2 - 2025-05,Intercompany Cash,CHI
+1678,635,2025-05-26,1300,Intercompany Receivable,0.0,3707.6,Intercompany settlement received from branch 2 - 2025-05,Intercompany Cash,CHI
+1679,636,2025-05-20,1300,Intercompany Receivable,3317.6,0.0,Shared services billed to branch 3 - 2025-05,Intercompany,DAL
+1680,636,2025-05-20,4090,Intercompany Shared Services Revenue,0.0,3317.6,Shared services billed to branch 3 - 2025-05,Intercompany,DAL
+1685,639,2025-05-26,1000,Cash - Operating,3289.0,0.0,Intercompany settlement received from branch 3 - 2025-05,Intercompany Cash,DAL
+1686,639,2025-05-26,1300,Intercompany Receivable,0.0,3289.0,Intercompany settlement received from branch 3 - 2025-05,Intercompany Cash,DAL
+1687,640,2025-06-12,1100,Accounts Receivable,113863.1,0.0,MIA legal fees billed - 2025-06,Billing,
+1688,640,2025-06-12,4010,Litigation Fees,0.0,47822.5,MIA legal fees billed - 2025-06,Billing,
+1689,640,2025-06-12,4020,Corporate & Transactional Fees,0.0,37574.82,MIA legal fees billed - 2025-06,Billing,
+1690,640,2025-06-12,4030,Family Law Fees,0.0,28465.78,MIA legal fees billed - 2025-06,Billing,
+1691,641,2025-06-24,1000,Cash - Operating,106994.29,0.0,MIA client fee collections - 2025-06,Cash Receipt,
+1692,641,2025-06-24,1100,Accounts Receivable,0.0,106994.29,MIA client fee collections - 2025-06,Cash Receipt,
+1693,642,2025-06-16,5010,Court Filing Fees,6466.68,0.0,MIA direct case costs - 2025-06,AP/Cash,
+1694,642,2025-06-16,5020,Expert Witness Fees,5290.92,0.0,MIA direct case costs - 2025-06,AP/Cash,
+1695,642,2025-06-16,1000,Cash - Operating,0.0,8230.32,MIA direct case costs - 2025-06,AP/Cash,
+1696,642,2025-06-16,2000,Accounts Payable,0.0,3527.28,MIA direct case costs - 2025-06,AP/Cash,
+1697,643,2025-06-30,6010,Attorney & Staff Payroll,49364.0,0.0,MIA payroll run - 2025-06,Payroll,
+1698,643,2025-06-30,6020,Payroll Taxes & Benefits,6910.96,0.0,MIA payroll run - 2025-06,Payroll,
+1699,643,2025-06-30,1000,Cash - Operating,0.0,56218.87,MIA payroll run - 2025-06,Payroll,
+1700,643,2025-06-30,2100,Accrued Payroll,0.0,5627.5,MIA payroll run - 2025-06,Payroll,
+1701,643,2025-06-30,2100,Accrued Payroll,5571.41,0.0,MIA payroll run - 2025-06,Payroll,
+1702,644,2025-06-02,6030,Office Rent,7378.0,0.0,MIA office rent - 2025-06,Cash,
+1703,644,2025-06-02,1000,Cash - Operating,0.0,7378.0,MIA office rent - 2025-06,Cash,
+1704,645,2025-06-18,6040,Marketing & Business Development,3289.42,0.0,MIA marketing spend - 2025-06,AP/Cash,
+1705,645,2025-06-18,1000,Cash - Operating,0.0,2631.54,MIA marketing spend - 2025-06,AP/Cash,
+1706,645,2025-06-18,2000,Accounts Payable,0.0,657.88,MIA marketing spend - 2025-06,AP/Cash,
+1707,646,2025-06-02,6050,Professional Insurance,1450.0,0.0,MIA malpractice insurance amortization - 2025-06,Prepaid Amort,
+1708,646,2025-06-02,1200,Prepaid Expenses,0.0,1450.0,MIA malpractice insurance amortization - 2025-06,Prepaid Amort,
+1709,647,2025-06-09,6060,Software & IT,2457.0,0.0,MIA software & IT subscriptions - 2025-06,Cash,
+1710,647,2025-06-09,1000,Cash - Operating,0.0,2457.0,MIA software & IT subscriptions - 2025-06,Cash,
+1711,648,2025-06-30,7000,Depreciation Expense,1100.0,0.0,MIA monthly depreciation - 2025-06,Adjusting Entry,
+1712,648,2025-06-30,1500,"Fixed Assets, Net",0.0,1100.0,MIA monthly depreciation - 2025-06,Adjusting Entry,
+1713,649,2025-06-05,2000,Accounts Payable,4111.47,0.0,MIA AP payment run (prior month invoices) - 2025-06,Cash,
+1714,649,2025-06-05,1000,Cash - Operating,0.0,4111.47,MIA AP payment run (prior month invoices) - 2025-06,Cash,
+1771,670,2025-06-20,1300,Intercompany Receivable,3772.08,0.0,Shared services billed to branch 2 - 2025-06,Intercompany,CHI
+1772,670,2025-06-20,4090,Intercompany Shared Services Revenue,0.0,3772.08,Shared services billed to branch 2 - 2025-06,Intercompany,CHI
+1777,673,2025-06-25,1000,Cash - Operating,3739.84,0.0,Intercompany settlement received from branch 2 - 2025-06,Intercompany Cash,CHI
+1778,673,2025-06-25,1300,Intercompany Receivable,0.0,3739.84,Intercompany settlement received from branch 2 - 2025-06,Intercompany Cash,CHI
+1779,674,2025-06-20,1300,Intercompany Receivable,3346.2,0.0,Shared services billed to branch 3 - 2025-06,Intercompany,DAL
+1780,674,2025-06-20,4090,Intercompany Shared Services Revenue,0.0,3346.2,Shared services billed to branch 3 - 2025-06,Intercompany,DAL
+1785,677,2025-06-25,1000,Cash - Operating,3317.6,0.0,Intercompany settlement received from branch 3 - 2025-06,Intercompany Cash,DAL
+1786,677,2025-06-25,1300,Intercompany Receivable,0.0,3317.6,Intercompany settlement received from branch 3 - 2025-06,Intercompany Cash,DAL
