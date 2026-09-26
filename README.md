@@ -14,7 +14,7 @@ Group — with a Miami HQ (which bills shared services to the branches) plus
 Chicago and Dallas offices. 18 months of history (Jan 2024 – Jun 2025), with
 June 2025 modeled as the "open" month currently in close.
 
-## Files
+## 🗂️ Files
 
 | File | What it is |
 |---|---|
@@ -27,7 +27,7 @@ June 2025 modeled as the "open" month currently in close.
 | `source_data/` | Raw per-office "source system" exports (what Power Query connects to) |
 | `data/` | Modeled (post-ETL) flat files — what Power Query lands, and what feeds both the SQLite load and the workbook |
 
-## Workbook tabs
+## 🧾 Workbook tabs
 
 - **README** — same overview, inside the workbook.
 - **Close_Checklist** — the month-end close task list for the open period, sequencing accruals, reconciliations, intercompany settlement, elimination entries, variance review, and period lock, with owners and due dates.
@@ -38,7 +38,7 @@ June 2025 modeled as the "open" month currently in close.
 - **Dashboard** — Group KPI tiles and trend charts.
 - **PQ_* tabs** — the raw, ETL-landed data everything above is formula-driven from. Nothing upstream is a hardcoded number.
 
-## How this maps to the five requirements
+## 🗺️ How this maps to the five requirements
 
 **Accounting / audit / controlling / FP&A** — the whole workbook is one close
 cycle: accruals booked and reversed, a checklist that sequences the work,
