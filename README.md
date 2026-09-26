@@ -1,4 +1,4 @@
-# P&V Legal Group — Multi-Office Consolidation Portfolio Project
+# P&V Legal Group — Multi-Office Consolidation Portfolio
 
 Built for roles in accounting, audit, controlling, or FP&A that specifically
 call for: reconciliations, month-end close and consolidation; SQL (joins,
