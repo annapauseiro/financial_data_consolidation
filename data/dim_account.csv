@@ -1,0 +1,28 @@
+AccountID,AccountCode,AccountName,AccountType,ParentAccountID,IsIntercompany,NormalBalance
+1,1000,Cash - Operating,Asset,,0,Debit
+2,1100,Accounts Receivable,Asset,,0,Debit
+3,1200,Prepaid Expenses,Asset,,0,Debit
+4,1300,Intercompany Receivable,Asset,,1,Debit
+5,1500,"Fixed Assets, Net",Asset,,0,Debit
+6,2000,Accounts Payable,Liability,,0,Credit
+7,2100,Accrued Payroll,Liability,,0,Credit
+8,2200,Intercompany Payable,Liability,,1,Credit
+9,3000,Owner's Equity / Retained Earnings,Equity,,0,Credit
+10,4000,Legal Fee Revenue,Revenue,,0,Credit
+11,4010,Litigation Fees,Revenue,10,0,Credit
+12,4020,Corporate & Transactional Fees,Revenue,10,0,Credit
+13,4030,Family Law Fees,Revenue,10,0,Credit
+14,4090,Intercompany Shared Services Revenue,Revenue,,1,Credit
+15,5000,Direct Case Costs,COGS,,0,Debit
+16,5010,Court Filing Fees,COGS,15,0,Debit
+17,5020,Expert Witness Fees,COGS,15,0,Debit
+18,6000,Operating Expenses,Opex,,0,Debit
+19,6010,Attorney & Staff Payroll,Opex,18,0,Debit
+20,6020,Payroll Taxes & Benefits,Opex,18,0,Debit
+21,6030,Office Rent,Opex,18,0,Debit
+22,6040,Marketing & Business Development,Opex,18,0,Debit
+23,6050,Professional Insurance,Opex,18,0,Debit
+24,6060,Software & IT,Opex,18,0,Debit
+25,6070,Shared Services Allocation (Intercompany),Opex,18,1,Debit
+26,7000,Depreciation Expense,Opex,,0,Debit
+27,8000,Interest Expense,Opex,,0,Debit
